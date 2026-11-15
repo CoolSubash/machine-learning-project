@@ -1,0 +1,16 @@
+# environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+.DS_Store
+
+# large or re-downloadable data
+data/raw/
+data/interim/
+data/audio_previews/
+data/mels/
+
+# proposal drafts (kept local)
+proposal_v2/
+proposal.pdf

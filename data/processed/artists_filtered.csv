@@ -1,0 +1,2829 @@
+artistID,name,n_listeners,total_plays,popularity_bucket,has_tags
+2,Diary of Dreams,12,8012,tail,True
+6,Moonspell,10,5080,tail,True
+7,Marilyn Manson,133,96201,head,True
+8,DIR EN GREY,12,10791,tail,True
+9,Combichrist,24,9621,tail,True
+10,Grendel,9,4067,tail,True
+11,Agonoize,6,1992,tail,True
+12,Behemoth,19,9564,tail,True
+13,Hocico,10,2376,tail,True
+15,Dimmu Borgir,26,8963,tail,True
+16,London After Midnight,8,1381,tail,True
+17,Psyclon Nine,6,1780,tail,True
+18,The Crüxshadows,10,3820,tail,True
+19,:wumpscut:,13,8685,tail,True
+25,Cradle of Filth,26,15166,tail,True
+27,Laibach,6,5076,tail,True
+28,Gorgoroth,6,2109,tail,True
+30,And One,32,38949,head,True
+32,Covenant,16,9256,tail,True
+34,Icon of Coil,9,2887,tail,True
+36,KMFDM,14,8570,tail,True
+37,Funker Vogt,5,978,tail,True
+38,Dawn of Ashes,5,541,tail,True
+39,Sopor Aeternus & The Ensemble of Shadows,11,13816,tail,True
+40,The Faint,14,4561,tail,True
+41,God Module,7,2355,tail,True
+45,Mindless Self Indulgence,39,29358,head,True
+46,Pyotr Ilyich Tchaikovsky,5,364,tail,True
+47,Emperor,6,1309,tail,True
+49,Reaper,6,1519,tail,True
+51,Duran Duran,111,348919,head,True
+52,Morcheeba,23,18787,tail,True
+53,Air,75,44230,head,True
+54,Hooverphonic,18,15927,tail,True
+55,Kylie Minogue,298,449292,head,True
+56,Daft Punk,151,176043,head,True
+57,Thievery Corporation,19,15611,tail,True
+58,Goldfrapp,82,54597,head,True
+59,New Order,107,67259,head,True
+61,Talk Talk,25,12833,tail,True
+63,Enigma,41,77046,head,True
+64,Röyksopp,71,47993,head,True
+65,Coldplay,369,330757,head,True
+66,Faithless,19,11316,tail,True
+67,Madonna,429,921198,head,True
+68,Icehouse,17,9357,tail,True
+69,Sade,29,19391,head,True
+70,Moby,85,44852,head,True
+71,Dido,57,39172,head,True
+72,Depeche Mode,282,1301308,head,True
+73,Café Del Mar,7,3622,tail,True
+75,Camouflage,32,11768,head,True
+76,Electronic,15,10949,tail,True
+77,George Michael,43,29944,head,True
+80,Groove Armada,14,7853,tail,True
+81,Portishead,107,43961,head,True
+82,Marc Almond,9,34449,tail,True
+84,Cut Copy,41,18136,head,True
+85,Spandau Ballet,21,10998,tail,True
+86,Katie Melua,18,24544,tail,True
+88,Gorillaz,124,69629,head,True
+89,Lady Gaga,611,1291387,head,True
+90,Kosheen,6,3801,tail,True
+91,Nik Kershaw,11,7163,tail,True
+93,Jean-Michel Jarre,16,14259,tail,True
+95,Simply Red,13,4099,tail,True
+96,Fleetwood Mac,42,12008,head,True
+97,Duffy,80,40042,head,True
+98,Japan,22,19647,tail,True
+99,INXS,49,18793,head,True
+100,ABC,19,7218,tail,True
+101,Pleq,5,14907,tail,True
+103,Max Richter,12,6495,tail,True
+107,Burial,24,20392,tail,True
+126,The Notwist,8,2970,tail,True
+137,Worm Is Green,5,1030,tail,True
+138,Library Tapes,5,1305,tail,True
+151,Deep Forest,9,5831,tail,True
+152,Porcupine Tree,71,88594,head,True
+153,De/Vision,33,20203,head,True
+154,Radiohead,393,385306,head,True
+155,Robbie Williams,77,54825,head,True
+156,VAST,10,3802,tail,True
+157,Michael Jackson,266,296882,head,True
+159,The Cure,229,151103,head,True
+161,Enrique Iglesias,121,97089,head,True
+162,God Is an Astronaut,49,32173,head,True
+163,Pink Floyd,258,466104,head,True
+165,Planet Funk,5,1198,tail,True
+166,The Cranberries,70,31367,head,True
+167,Scissor Sisters,47,49521,head,True
+170,Mew,35,16324,head,True
+171,Stereophonics,34,17561,head,True
+172,Garbage,83,46606,head,True
+173,Placebo,242,245878,head,True
+174,Infected Mushroom,26,15030,tail,True
+175,Delerium,13,3217,tail,True
+176,Scorpions,76,24799,head,True
+178,Dolores O'Riordan,6,4931,tail,True
+180,Roxette,49,20046,head,True
+181,Paradise Lost,25,16937,tail,True
+182,Keane,129,75804,head,True
+183,Jamiroquai,33,8747,head,True
+184,James Blunt,61,23910,head,True
+185,Reamonn,8,2653,tail,True
+186,Blackfield,25,15113,tail,True
+187,a-ha,97,205195,head,True
+188,Opeth,68,79847,head,True
+189,Poets of the Fall,21,11728,tail,True
+190,Muse,400,485076,head,True
+191,OneRepublic,82,67187,head,True
+192,Elton John,38,34976,head,True
+193,Tears for Fears,52,18280,head,True
+194,The Tiger Lillies,5,4670,tail,True
+195,Bright Eyes,43,113631,head,True
+196,Beirut,75,37812,head,True
+197,Tom Waits,50,41316,head,True
+198,System of a Down,181,277397,head,True
+199,Arcade Fire,128,62735,head,True
+200,Gogol Bordello,13,4501,tail,True
+201,Ленинград,6,8066,tail,True
+202,CAKE,20,12799,tail,True
+203,Blur,114,318221,head,True
+204,Damien Rice,52,46061,head,True
+205,Andrew Bird,20,11918,tail,True
+206,Beck,84,37576,head,True
+207,Arctic Monkeys,248,288520,head,True
+208,Babyshambles,40,21160,head,True
+209,My Chemical Romance,157,159733,head,True
+210,Bloc Party,85,37500,head,True
+211,The Decemberists,23,14090,tail,True
+212,Bob Dylan,108,65145,head,True
+214,DeVotchKa,8,1901,tail,True
+215,Jeff Buckley,39,19999,head,True
+216,Sparklehorse,7,4116,tail,True
+217,Death Cab for Cutie,134,100298,head,True
+218,Man Man,5,1383,tail,False
+219,M. Ward,12,5203,tail,True
+220,Red Hot Chili Peppers,222,116768,head,True
+221,Travis,69,34165,head,True
+222,Modest Mouse,59,40203,head,True
+223,Band of Horses,42,30543,head,True
+225,Interpol,125,81822,head,True
+226,Queens of the Stone Age,115,69833,head,True
+227,The Beatles,480,662116,head,True
+228,Kings of Leon,235,148452,head,True
+229,The Killers,304,191979,head,True
+230,Green Day,236,155321,head,True
+231,Devendra Banhart,27,17806,tail,True
+233,Nine Inch Nails,138,160317,head,True
+234,Nirvana,258,190232,head,True
+235,Eels,22,11149,tail,True
+236,Clap Your Hands Say Yeah,13,5264,tail,True
+237,Thom Yorke,42,17674,head,True
+238,Massive Attack,111,42195,head,True
+239,Keyshia Cole,19,19342,tail,True
+240,Racionais MC's,5,1266,tail,True
+241,Toni Braxton,26,16307,tail,True
+245,Bob Marley & The Wailers,28,11867,head,True
+246,Adriana Calcanhotto,21,13716,tail,True
+247,Maxwell,7,1472,tail,True
+249,Common,11,3313,tail,True
+250,Bob Marley,50,24482,head,True
+251,Whitney Houston,51,32020,head,True
+252,Tamia,6,664,tail,True
+253,Bryan Adams,25,8728,tail,True
+256,Kid Abelha,16,4021,tail,True
+257,Mariah Carey,241,384307,head,True
+258,Tina Turner,20,9498,tail,True
+261,Marisa Monte,30,11769,head,True
+262,Mary J. Blige,22,18404,tail,True
+263,Jill Scott,6,1014,tail,True
+265,Céline Dion,82,83373,head,True
+266,Erykah Badu,18,8316,tail,True
+267,Nas,27,23652,tail,True
+268,Richard Marx,6,1417,tail,True
+270,Maria Bethânia,12,5787,tail,True
+271,Mos Def,14,6426,tail,True
+276,Gang Starr,14,9652,tail,True
+278,2Pac,30,14813,head,True
+279,Brandy,37,74834,head,True
+283,Ana Carolina,38,20662,head,True
+285,Janet Jackson,91,120665,head,True
+286,Peter Tosh,5,1004,tail,True
+287,Monica,8,8630,tail,True
+288,Rihanna,484,905423,head,True
+289,Britney Spears,522,2393140,head,True
+290,Jordin Sparks,89,72962,head,True
+291,Kelly Clarkson,260,253027,head,True
+292,Christina Aguilera,407,1058405,head,True
+293,Ashlee Simpson,128,93828,head,True
+294,Leona Lewis,160,162288,head,True
+295,Beyoncé,397,499318,head,True
+296,Sugababes,81,59353,head,True
+297,David Cook,21,15634,tail,True
+298,Lily Allen,243,129352,head,True
+299,Jennifer Lopez,209,144710,head,True
+300,Katy Perry,473,532545,head,True
+301,Alicia Keys,148,91066,head,True
+302,P!nk,305,207761,head,True
+303,Panic at the Disco,5,2622,tail,True
+304,David Archuleta,51,86342,head,True
+305,Katharine McPhee,32,26762,head,True
+306,Black Eyed Peas,304,188634,head,True
+307,Kate Voegele,25,17200,tail,True
+308,Kat DeLuna,43,20231,head,True
+309,Danity Kane,33,14522,head,True
+310,Nelly Furtado,161,110218,head,True
+311,Natasha Bedingfield,81,39111,head,True
+312,Cassie,18,15405,tail,True
+313,Allison Iraheta,14,3985,tail,True
+314,Ciara,106,67979,head,True
+316,Alanis Morissette,131,117229,head,True
+317,Keri Hilson,75,26534,head,True
+318,Hilary Duff,169,123682,head,True
+320,Fergie,96,26323,head,True
+321,Jonas Brothers,82,61849,head,True
+322,Ashanti,21,14610,tail,True
+323,The Saturdays,60,54909,head,True
+324,Cobra Starship,107,55463,head,True
+325,Ashley Tisdale,182,166644,head,True
+326,JoJo,60,23611,head,True
+327,Chris Brown,79,33055,head,True
+328,David Guetta,155,63582,head,True
+329,Justin Timberlake,140,91169,head,True
+330,T.I.,57,27607,head,True
+331,Kanye West,134,94501,head,True
+332,Kelly Rowland,62,24585,head,True
+333,Avril Lavigne,417,525844,head,True
+334,No Angels,5,8372,tail,True
+340,Cher,55,41552,head,True
+342,Colbie Caillat,69,40510,head,True
+344,Taylor Swift,247,525292,head,True
+346,Lena,13,3322,tail,True
+348,Wir sind Helden,8,1640,tail,True
+349,The Pussycat Dolls,233,130855,head,True
+350,Monrose,13,12292,tail,True
+352,Cheryl Cole,128,67822,head,True
+354,Sarah Connor,10,5921,tail,True
+355,Jason Mraz,60,40288,head,True
+356,Brad Paisley,20,16612,tail,True
+357,Silbermond,8,3439,tail,True
+359,Maria Mena,14,15533,tail,True
+360,Shania Twain,46,33380,head,True
+362,A Fine Frenzy,36,24133,head,True
+364,Sugarland,8,15591,tail,True
+366,Jack Johnson,73,39882,head,True
+367,BIG BANG,14,25855,tail,True
+369,2PM,8,6937,tail,True
+370,Katatonia,37,43458,head,True
+371,Skillet,45,30524,head,True
+374,宇多田ヒカル,37,31157,head,True
+375,浜崎あゆみ,37,60167,head,True
+376,UVERworld,5,3185,tail,True
+377,Linkin Park,280,265362,head,True
+378,Evanescence,226,513476,head,True
+379,中島美嘉,9,5981,tail,True
+380,Blackmore's Night,13,7788,tail,True
+383,Bad Religion,46,31078,head,True
+384,Fairuz,6,2831,tail,True
+386,Cascada,81,35347,head,True
+388,B2ST,11,7379,tail,True
+389,Enya,48,25020,head,True
+390,GACKT,10,6520,tail,True
+393,Super Junior,11,8019,tail,True
+396,L'Arc~en~Ciel,15,10086,tail,True
+397,雅-MIYAVI-,8,5901,tail,True
+399,嵐,6,5229,tail,True
+400,2NE1,23,13418,tail,True
+403,The All-American Rejects,75,36370,head,True
+405,The Rasmus,39,17190,head,True
+407,Akira Yamaoka,33,28823,head,True
+408,Crossfade,11,6867,tail,True
+409,G-Dragon,7,4596,tail,True
+412,blink-182,150,102334,head,True
+413,After School,5,3464,tail,True
+416,The National,55,49647,head,True
+418,Sigur Rós,153,133955,head,True
+419,Tokyo Police Club,18,7901,tail,True
+420,The Kills,38,15615,head,True
+421,Móveis Coloniais de Acaju,22,9706,tail,True
+422,Mombojó,11,5377,tail,True
+423,Bat for Lashes,57,42305,head,True
+424,The Strokes,184,130227,head,True
+425,Yeah Yeah Yeahs,128,53054,head,True
+426,Rilo Kiley,21,16506,tail,True
+427,The Cribs,17,7522,tail,True
+428,The Libertines,58,37532,head,True
+429,The Smiths,162,91740,head,True
+430,Kate Nash,80,45886,head,True
+431,Wolf Parade,7,2539,tail,True
+432,Klaxons,77,30083,head,True
+433,Broken Social Scene,35,22039,head,True
+434,Spoon,29,11859,head,True
+436,The Smashing Pumpkins,124,88270,head,True
+437,She & Him,42,25748,head,True
+438,O Teatro Mágico,17,11314,tail,True
+439,Los Hermanos,95,100819,head,True
+440,Animal Collective,55,40234,head,True
+441,Joy Division,141,99296,head,True
+442,The Tallest Man on Earth,7,1478,tail,True
+443,The Rakes,15,8167,tail,True
+444,múm,36,22661,head,True
+445,Bon Iver,30,8673,head,True
+446,Ra Ra Riot,7,1938,tail,True
+447,Manu Chao,25,11518,tail,True
+448,Art Brut,8,1431,tail,True
+450,She Wants Revenge,44,16857,head,True
+453,Silverchair,35,37287,head,True
+454,Jónsi,18,6986,tail,True
+455,Backstreet Boys,95,153101,head,True
+456,Jesse McCartney,54,64596,head,True
+457,Aaron Carter,10,6007,tail,True
+458,Justin Bieber,100,200027,head,True
+459,*NSYNC,29,12715,head,True
+460,Noize MC,17,11251,tail,True
+461,Miley Cyrus,286,489065,head,True
+462,Blue,12,15267,tail,True
+463,Savage Garden,17,8120,tail,True
+464,3OH!3,152,94179,head,True
+465,Jessica Simpson,64,38190,head,True
+466,Ke$ha,362,384405,head,True
+467,Darren Hayes,15,15661,tail,True
+468,Usher,91,44673,head,True
+469,Nick Carter,13,4103,tail,True
+470,nevershoutnever!,46,43710,head,True
+471,Metro Station,42,16155,head,True
+472,3 Doors Down,55,29041,head,True
+474,Craig David,13,5585,tail,True
+475,Eminem,204,321011,head,True
+476,M. Pokora,13,8961,tail,True
+477,Daniel Merriweather,5,808,tail,True
+478,ВИА Гра,8,2885,tail,True
+479,Westlife,24,18450,tail,True
+481,Simple Plan,86,44240,head,True
+482,Jeremih,7,4315,tail,True
+484,Ne-Yo,56,14332,head,True
+485,Kelis,45,25380,head,True
+486,30 Seconds to Mars,216,485532,head,True
+487,The Birthday Massacre,38,68917,head,True
+488,Three Days Grace,89,68306,head,True
+489,Limp Bizkit,52,27179,head,True
+490,Seether,29,19736,head,True
+491,Fort Minor,15,7834,tail,True
+492,Funeral for a Friend,31,19454,head,True
+493,Lostprophets,46,46295,head,True
+494,Finch,16,10180,tail,True
+496,Cold,11,7112,tail,True
+497,Papa Roach,78,43559,head,True
+498,Paramore,399,963449,head,True
+499,Flyleaf,70,75634,head,True
+500,Bullet for My Valentine,82,51566,head,True
+501,Angels & Airwaves,35,24781,head,True
+502,LaFee,9,4378,tail,True
+503,In Flames,67,237148,head,True
+504,HIM,73,71488,head,True
+506,Anathema,48,35700,head,True
+507,Saosin,34,23743,head,True
+510,P.O.D.,25,16056,tail,True
+511,U2,185,493024,head,True
+512,Deftones,67,62933,head,True
+514,Ill Niño,15,9409,tail,True
+515,Clan of Xymox,22,9786,tail,True
+516,Celldweller,14,10234,tail,True
+517,Korn,96,58163,head,True
+518,Within Temptation,98,78342,head,True
+519,Static-X,19,16794,tail,True
+521,happysad,14,6881,tail,True
+522,Lacrimosa,11,8135,tail,True
+523,Lindsay Lohan,125,85160,head,True
+524,Jeffree Star,43,46370,head,True
+525,Gwen Stefani,145,65902,head,True
+526,La Roux,89,34090,head,True
+527,Lil' Wayne,45,50645,head,True
+528,Pixie Lott,118,58312,head,True
+529,Paul van Dyk,10,2264,tail,True
+530,Alphabeat,27,9185,tail,True
+531,Taio Cruz,69,15014,head,True
+532,Little Boots,68,34002,head,True
+533,Oasis,210,165975,head,True
+534,No Doubt,58,38608,head,True
+535,Sophie Ellis-Bextor,66,30324,head,True
+536,Good Charlotte,91,70828,head,True
+537,The Used,73,61679,head,True
+538,Maroon 5,140,57009,head,True
+539,Gossip,30,7833,head,True
+540,Fall Out Boy,130,79486,head,True
+541,Space Cowboy,14,3236,tail,True
+542,Pitty,87,50241,head,True
+543,Nicole Scherzinger,105,73597,head,True
+544,Adam Lambert,153,115538,head,True
+545,Flo Rida,41,26168,head,True
+546,The Ting Tings,80,22518,head,True
+547,Kid Cudi,44,32234,head,True
+548,Ellie Goulding,77,48631,head,True
+554,The Kinks,54,16810,head,True
+562,The Who,92,58438,head,True
+563,Small Faces,5,1646,tail,True
+565,Howlin' Wolf,17,6204,tail,True
+567,Sam Cooke,10,3019,tail,True
+569,Otis Redding,6,5053,tail,True
+570,Little Richard,8,2988,tail,True
+572,Ray Charles,14,5790,tail,True
+575,Aretha Franklin,22,7064,tail,True
+576,Marvin Gaye,11,4286,tail,True
+578,James Brown,10,5404,tail,True
+580,Muddy Waters,14,5980,tail,True
+581,Elmore James,6,4275,tail,True
+582,Sonny Boy Williamson,8,1848,tail,True
+583,John Lee Hooker,16,3916,tail,True
+585,Chuck Berry,20,10218,tail,True
+591,Charles Aznavour,7,1644,tail,True
+592,Ennio Morricone,15,25239,tail,True
+599,David Bowie,198,133511,head,True
+601,Prince,32,20415,head,True
+602,Iron & Wine,37,18451,head,True
+603,Aphex Twin,65,34321,head,True
+604,Kings of Convenience,50,28188,head,True
+605,Beastie Boys,32,21268,head,True
+606,José González,17,7548,tail,True
+607,Jethro Tull,40,21204,head,True
+609,Nick Drake,29,10476,head,True
+610,Miles Davis,27,10139,tail,True
+612,Talking Heads,26,8415,tail,True
+613,John Coltrane,9,2457,tail,True
+614,Pearl Jam,124,251440,head,True
+615,Elliott Smith,75,59821,head,True
+616,Squarepusher,20,11264,tail,True
+617,The Roots,18,14713,tail,True
+618,Belle and Sebastian,79,49881,head,True
+619,A Tribe Called Quest,14,6055,tail,True
+620,Pulp,28,12753,head,True
+621,The Album Leaf,22,8806,tail,True
+622,Sufjan Stevens,59,39491,head,True
+625,Thelonious Monk,6,2407,tail,True
+627,Saint Etienne,11,5410,tail,True
+629,of Montreal,35,17068,head,True
+630,Neil Young,40,17930,head,True
+631,Einstürzende Neubauten,15,9283,tail,True
+632,Explosions in the Sky,57,24476,head,True
+635,Teen Angels,5,3969,tail,True
+637,Helena Paparizou,7,4223,tail,True
+638,Kalomoira,5,7804,tail,True
+641,Laura Pausini,38,23397,head,True
+644,Inna,25,14234,tail,True
+646,RBD,73,44182,head,True
+652,Hadise,6,6877,tail,True
+660,Dima Bilan,5,3758,tail,True
+661,Stromae,5,633,tail,True
+669,Eric Saade,11,6337,tail,True
+674,Darin,26,18586,tail,True
+676,Yohanna,5,2755,tail,True
+679,Glee Cast,249,506453,head,True
+680,The Veronicas,126,114690,head,True
+681,Demi Lovato,128,139378,head,True
+682,Lights,20,22138,tail,True
+683,John Mayer,79,70360,head,True
+685,Nick Jonas & The Administration,10,2501,tail,True
+686,Selena Gomez & the Scene,143,110123,head,True
+687,All Time Low,77,215777,head,True
+688,Honor Society,5,1224,tail,True
+689,Florence + the Machine,159,113467,head,True
+690,Marina & the Diamonds,62,27304,head,True
+691,Owl City,89,36911,head,True
+692,Mitchel Musso,12,2372,tail,True
+693,Hey Monday,41,27941,head,True
+694,Darren Criss,5,29798,tail,True
+696,The Pierces,8,6545,tail,True
+697,Sia,56,27597,head,True
+699,Esmée Denters,13,5024,tail,True
+701,Shakira,319,688529,head,True
+703,The xx,82,43860,head,True
+704,The Pretty Reckless,123,138049,head,True
+705,Engenheiros do Hawaii,33,35978,head,True
+706,AC/DC,180,99820,head,True
+707,Metallica,224,371916,head,True
+708,Capital Inicial,24,14327,tail,True
+709,The White Stripes,107,45355,head,True
+710,Black Label Society,33,26972,head,True
+711,Mark Knopfler,5,1982,tail,True
+712,Dire Straits,42,13640,head,True
+714,Legião Urbana,61,27680,head,True
+715,R.E.M.,96,55137,head,True
+716,Kaiser Chiefs,75,27569,head,True
+717,Electric Light Orchestra,29,37655,head,True
+718,Johnny Cash,74,37211,head,True
+720,Social Distortion,13,4031,tail,True
+722,ATB,30,13295,head,True
+724,Ozzy Osbourne,66,35924,head,True
+725,Titãs,8,1102,tail,True
+726,Apocalyptica,56,43644,head,True
+727,Era,18,10199,tail,True
+728,Eric Clapton,53,19637,head,True
+730,Eagles,31,8451,head,True
+732,Alice Cooper,51,19335,head,True
+733,John Lennon,64,23102,head,True
+734,Bruce Springsteen,46,23472,head,True
+735,The Rolling Stones,131,87432,head,True
+737,Trans-Siberian Orchestra,6,3038,tail,True
+744,Autechre,24,15119,tail,True
+747,Carbon Based Lifeforms,11,4088,tail,True
+748,Boards of Canada,69,74039,head,True
+749,Casino Versus Japan,6,927,tail,True
+751,Jesu,8,1463,tail,True
+752,Boris,6,1913,tail,True
+754,Maximum the Hormone,9,3577,tail,True
+755,65daysofstatic,32,19654,head,True
+756,Arovane,14,3662,tail,True
+757,Crystal Castles,110,59938,head,True
+758,Психея,11,15627,tail,True
+759,#####,8,3707,tail,True
+763,Mono,15,4024,tail,True
+767,Gridlock,6,2770,tail,True
+768,Enter Shikari,40,55642,head,True
+769,Isis,20,8236,tail,True
+770,HORSE the band,10,5119,tail,True
+772,Proem,12,4362,tail,True
+777,The Crystal Method,8,4170,tail,True
+778,Ochre,9,3275,tail,True
+779,Bring Me The Horizon,72,78578,head,True
+782,Solar Fields,12,4714,tail,True
+785,Fear Factory,22,13906,tail,True
+786,Mandy Moore,27,17142,tail,True
+787,Paulina Rubio,16,6559,tail,True
+788,Fey,8,2036,tail,True
+789,Dannii Minogue,15,17921,tail,True
+790,Belinda,65,30446,head,True
+791,Marie Serneholt,6,3427,tail,True
+792,Thalía,26,350035,tail,True
+793,Hannah Montana,50,26748,head,True
+794,A*Teens,12,6258,tail,True
+795,Gloria Trevi,7,1654,tail,True
+797,Emily Osment,51,9083,head,True
+798,Geri Halliwell,12,4025,tail,True
+800,Atomic Kitten,8,2299,tail,True
+802,Anahí,67,51602,head,True
+803,Five,5,947,tail,True
+804,Darkest Hour,6,7929,tail,True
+805,Parkway Drive,26,20874,tail,True
+806,Soilwork,23,22873,tail,True
+808,Rise Against,81,80184,head,True
+809,The Black Dahlia Murder,13,9244,tail,True
+810,All That Remains,25,23282,tail,True
+811,Sonic Syndicate,17,17151,tail,True
+812,Dark Tranquillity,24,25567,tail,True
+813,As I Lay Dying,42,61163,head,True
+814,Caliban,16,10065,tail,True
+815,Killswitch Engage,46,40428,head,True
+816,A Day to Remember,77,90365,head,True
+818,36 Crazyfists,19,10722,tail,True
+820,At the Gates,8,3450,tail,True
+821,Amon Amarth,28,29399,head,True
+823,August Burns Red,25,19260,tail,True
+824,Ensiferum,14,14254,tail,True
+825,Whitechapel,11,6145,tail,True
+826,Divine Heresy,6,2226,tail,True
+829,It Prevails,5,1694,tail,True
+830,Atreyu,49,46466,head,True
+831,Emmure,11,6192,tail,True
+832,I Killed the Prom Queen,8,5874,tail,True
+834,Five Finger Death Punch,19,7699,tail,True
+835,Scar Symmetry,11,10547,tail,True
+837,Eluveitie,17,11244,tail,True
+839,All Shall Perish,11,5498,tail,True
+840,Millencolin,19,8993,tail,True
+841,Slayer,81,62107,head,True
+842,Despised Icon,12,9804,tail,True
+843,Pantera,72,62838,head,True
+845,The Dillinger Escape Plan,22,12115,tail,True
+846,Lamb of God,33,22441,head,True
+850,Haste the Day,12,3736,tail,True
+851,Manic Street Preachers,56,36669,head,True
+852,The Stranglers,14,3520,tail,True
+854,Alice in Chains,80,49014,head,True
+855,Jane's Addiction,8,1399,tail,True
+856,Soundgarden,35,18719,head,True
+857,The Clash,92,33757,head,True
+858,PJ Harvey,45,18706,head,True
+859,Pixies,77,28038,head,True
+860,Stone Temple Pilots,22,10379,tail,True
+861,Killing Joke,14,2996,tail,True
+862,Primal Scream,14,4006,tail,True
+863,The Velvet Underground,67,22356,head,True
+864,Ministry,13,7400,tail,True
+865,Republika,6,1638,tail,True
+866,Virgin Prunes,7,2603,tail,True
+867,Nick Cave and the Bad Seeds,25,16022,tail,True
+868,The Doors,139,95880,head,True
+869,Afghan Whigs,5,1570,tail,True
+871,New Model Army,7,6242,tail,True
+874,Roxy Music,21,14566,tail,True
+875,Bauhaus,30,14220,head,True
+877,Alphaville,31,16765,head,True
+878,Wolfsheim,12,3778,tail,True
+879,Can,8,4269,tail,True
+880,Nitzer Ebb,21,13896,tail,True
+881,Kyuss,14,5559,tail,True
+882,The Jesus Lizard,5,1712,tail,True
+883,Tiamat,6,1211,tail,True
+885,Tracy Chapman,9,6226,tail,True
+886,Dragonette,23,12176,tail,True
+887,New Young Pony Club,8,2713,tail,True
+889,Cyndi Lauper,58,94551,head,True
+891,Jewel,18,9412,tail,True
+892,Dixie Chicks,17,7922,tail,True
+895,Chew Lips,5,4349,tail,True
+896,Noisettes,9,3429,tail,True
+898,Tegan and Sara,52,56006,head,True
+899,Missy Higgins,7,7646,tail,True
+900,Annie Lennox,13,5448,tail,True
+901,VV Brown,9,4212,tail,True
+903,Amy Winehouse,195,213103,head,True
+905,Crowded House,16,6673,tail,True
+906,Girls Aloud,67,80222,head,True
+907,Timbaland,104,56599,head,True
+908,Vanessa Hudgens,76,40837,head,True
+909,Delta Goodrem,16,16320,tail,True
+910,John Williams,25,15087,tail,True
+911,Rachel Stevens,9,9117,tail,True
+912,Carter Burwell,10,7827,tail,True
+913,Destiny's Child,83,34746,head,True
+914,Medina,9,2057,tail,True
+915,Alexandra Burke,42,19328,head,True
+917,Iron Maiden,177,368710,head,True
+918,Megadeth,104,102662,head,True
+919,Savatage,8,4940,tail,True
+920,Dream Theater,76,65886,head,True
+922,Bruce Dickinson,26,24109,tail,True
+923,Children of Bodom,53,70314,head,True
+924,Angra,24,15946,tail,True
+928,Helloween,40,28262,head,True
+930,Nightwish,103,83061,head,True
+931,Dr. Sin,5,2304,tail,True
+932,Matanza,33,71710,head,True
+936,Kamelot,25,18556,tail,True
+937,Stratovarius,19,12070,tail,True
+940,Rage,5,2675,tail,True
+942,Iced Earth,19,25213,tail,True
+943,Nevermore,14,8140,tail,True
+944,Symphony X,14,3974,tail,True
+945,Journey,23,5527,tail,True
+946,Avantasia,21,12345,tail,True
+947,Testament,24,10599,tail,True
+949,Death,37,14694,head,True
+951,Bon Jovi,84,43252,head,True
+952,Skid Row,38,31404,head,True
+953,Arch Enemy,39,22865,head,True
+954,Kreator,36,23324,head,True
+955,Epica,36,16071,head,True
+956,Yngwie Malmsteen,19,6634,tail,True
+957,Blind Guardian,46,30095,head,True
+959,Queen,208,114505,head,True
+961,Tori Amos,63,49603,head,True
+962,The Cardigans,37,27818,head,True
+963,Yanni,13,5062,tail,True
+964,The Mars Volta,51,27175,head,True
+965,Bush,19,26643,tail,True
+966,Nickelback,112,41094,head,True
+967,Sixpence None the Richer,10,4129,tail,True
+968,Armin van Buuren,30,10577,head,True
+969,Kasabian,89,47200,head,True
+970,Infernal,7,3561,tail,True
+971,Zoé,11,5570,tail,True
+972,t.A.T.u.,108,63661,head,True
+974,Amy Studt,6,1224,tail,True
+975,Santana,17,6391,tail,True
+977,At the Drive-In,22,5374,tail,True
+978,Disturbed,60,44959,head,True
+979,Smash Mouth,6,639,tail,True
+980,Yelle,26,6833,tail,True
+981,Emilíana Torrini,13,6443,tail,True
+982,Foo Fighters,164,88086,head,True
+985,Blondie,45,18041,head,True
+986,Frank Sinatra,44,28125,head,True
+987,"Earth, Wind & Fire",8,2225,tail,True
+989,The Donnas,18,4372,tail,True
+991,Jem,6,3009,tail,True
+992,Chris Rea,10,2879,tail,True
+993,Simple Minds,35,27126,head,True
+994,Howard Jones,12,3868,tail,True
+995,China Crisis,5,1216,tail,True
+997,The Human League,43,19603,head,True
+998,Orchestral Manoeuvres in the Dark,41,22584,head,True
+999,Thompson Twins,15,10010,tail,True
+1000,Information Society,8,3246,tail,True
+1001,Pet Shop Boys,93,91869,head,True
+1004,Kim Wilde,11,3922,tail,True
+1005,Robert Palmer,6,1119,tail,True
+1006,The Fixx,5,862,tail,True
+1008,Level 42,6,1144,tail,True
+1009,Tiësto,34,18885,head,True
+1011,Artista desconhecido,5,463,tail,True
+1013,Ultravox,32,19131,head,True
+1014,Erasure,50,83206,head,True
+1015,Berlin,6,410,tail,True
+1017,The Psychedelic Furs,9,2738,tail,True
+1019,Yazoo,29,14519,head,True
+1020,OceanLab,7,1397,tail,True
+1021,Groove Coverage,10,5211,tail,True
+1027,Heaven 17,12,2246,tail,True
+1028,Anything Box,6,2517,tail,True
+1029,Markus Schulz,5,457,tail,True
+1032,Jessie J,70,29701,head,True
+1034,Kerli,68,61748,head,True
+1035,Breathe Carolina,24,28256,tail,True
+1036,Anarbor,5,663,tail,True
+1037,Nicki Minaj,87,53353,head,True
+1038,The Maine,25,13504,tail,True
+1040,Forever the Sickest Kids,21,14434,tail,True
+1041,Gloria,27,27321,tail,True
+1042,Bruno Mars,72,20997,head,True
+1043,Boys Like Girls,82,37136,head,True
+1044,Slipknot,112,78363,head,True
+1045,Fresno,63,70589,head,True
+1046,New Found Glory,34,14348,head,True
+1047,McFly,69,83954,head,True
+1048,The Kooks,130,94398,head,True
+1051,Alesha Dixon,17,4314,tail,True
+1052,Pink,39,14512,head,True
+1053,Edyta Bartosiewicz,5,2884,tail,True
+1054,Camp Rock,16,3693,tail,True
+1055,Myslovitz,12,4032,tail,True
+1057,Ewa Farna,9,5576,tail,True
+1059,Alexz Johnson,14,8070,tail,True
+1061,Recoil,32,20209,head,True
+1062,Ladytron,56,33892,head,True
+1064,Hubert Kah,6,6190,tail,True
+1066,Ayria,17,13036,tail,True
+1067,Red Flag,6,5779,tail,True
+1069,The Frozen Autumn,8,3316,tail,True
+1072,Martin L. Gore,42,39658,head,True
+1073,Kraftwerk,45,16706,head,True
+1075,IAMX,66,52137,head,True
+1076,Wham!,14,5128,tail,True
+1079,Billy Idol,27,4919,tail,True
+1081,Ace of Base,25,31704,tail,True
+1083,Siouxsie and the Banshees,43,23851,head,True
+1085,Curve,9,4677,tail,True
+1089,Suede,38,31803,head,True
+1090,Franz Ferdinand,173,82999,head,True
+1091,AFI,48,23154,head,True
+1092,Joaquín Sabina,7,3413,tail,True
+1093,Kaizers Orchestra,5,5226,tail,True
+1094,Kent,11,6438,tail,True
+1095,Damon Albarn,5,1142,tail,True
+1097,Patrick Wolf,45,31086,head,True
+1098,Björk,172,202178,head,True
+1099,The Prodigy,76,40473,head,True
+1100,Chiodos,21,19425,tail,True
+1101,These New Puritans,10,2852,tail,True
+1103,Iggy Pop,16,6293,tail,True
+1104,Rammstein,140,129745,head,True
+1105,Jack's Mannequin,26,9037,tail,True
+1106,Phoenix,69,23881,head,True
+1107,"The Good, the Bad & the Queen",11,2056,tail,True
+1109,Yann Tiersen,69,43972,head,True
+1110,Rush,44,34641,head,True
+1112,Frédéric Chopin,19,7878,tail,True
+1113,Ayreon,17,10738,tail,True
+1114,Tarja,31,41028,head,True
+1116,Incubus,95,64897,head,True
+1117,Claude Debussy,8,3162,tail,True
+1118,A Perfect Circle,62,53915,head,True
+1119,Faith No More,52,37375,head,True
+1121,Wolfgang Amadeus Mozart,28,17786,head,True
+1122,The Police,58,29138,head,True
+1123,Johann Sebastian Bach,31,15947,head,True
+1124,Carl Orff,6,1109,tail,True
+1126,Noir Désir,11,3012,tail,True
+1127,The Asteroids Galaxy Tour,5,1301,tail,True
+1130,Ludwig van Beethoven,30,17492,head,True
+1131,Tool,80,76012,head,True
+1132,Joe Satriani,17,6255,tail,True
+1133,The String Quartet,5,1314,tail,True
+1134,Agalloch,17,8587,tail,True
+1135,Camille,9,5750,tail,True
+1142,Die Antwoord,5,2113,tail,True
+1143,Empyrium,8,4401,tail,True
+1145,Stone Sour,46,17862,head,True
+1146,菅野よう子,7,5460,tail,True
+1148,平沢進,6,5553,tail,True
+1150,Leonard Cohen,20,7717,tail,True
+1151,Editors,50,22321,head,True
+1154,The Pillows,7,2237,tail,True
+1155,Hot Chip,45,17092,head,True
+1156,Orbital,12,6885,tail,True
+1159,Architecture in Helsinki,12,5937,tail,True
+1160,Roy Orbison,10,1620,tail,True
+1161,Pizzicato Five,5,1889,tail,True
+1162,Flight of the Conchords,8,1727,tail,True
+1163,Los Campesinos!,13,7471,tail,True
+1164,The Magnetic Fields,17,8658,tail,True
+1167,Antony and the Johnsons,29,13520,head,True
+1171,The Blood Brothers,5,1261,tail,True
+1177,Diablo Swing Orchestra,6,2175,tail,True
+1179,Billy Talent,46,31048,head,True
+1180,Escape The Fate,69,71434,head,True
+1181,Silverstein,31,26071,head,True
+1182,The Red Jumpsuit Apparatus,26,16581,tail,True
+1183,You Me At Six,24,14646,tail,True
+1184,The Blackout,10,3821,tail,True
+1185,Alesana,42,35258,head,True
+1186,Sum 41,83,55683,head,True
+1187,Dance Gavin Dance,14,28243,tail,True
+1188,Asking Alexandria,34,44151,head,True
+1189,Secondhand Serenade,14,4964,tail,True
+1190,We Are The Ocean,8,3115,tail,True
+1191,Hadouken!,28,43303,head,True
+1192,Four Year Strong,21,9744,tail,True
+1193,Mayday Parade,22,13473,tail,True
+1194,Hawthorne Heights,16,6422,tail,True
+1195,Alexisonfire,48,34637,head,True
+1196,Suicide Silence,22,17125,tail,True
+1197,Senses Fail,18,12422,tail,True
+1198,We The Kings,28,9381,head,True
+1200,Story of the Year,21,18213,tail,True
+1201,Cute Is What We Aim For,25,13975,tail,True
+1202,Melvins,17,9843,tail,True
+1203,Skinny Puppy,20,17475,tail,True
+1205,Death in June,7,2459,tail,True
+1206,Misfits,50,32827,head,True
+1207,The Skatalites,5,1105,tail,True
+1210,Saul Williams,5,1288,tail,True
+1213,Lush,11,4646,tail,True
+1214,Nile,9,2628,tail,True
+1216,Mastodon,31,16477,head,True
+1220,Patsy Cline,5,1014,tail,True
+1221,Naked City,6,1471,tail,True
+1222,Venetian Snares,23,9562,tail,True
+1225,Dean Martin,5,1197,tail,True
+1226,Shpongle,13,4589,tail,True
+1227,Dick Dale,5,1162,tail,True
+1228,La Quiete,5,1205,tail,True
+1229,Sunn O))),7,1540,tail,True
+1231,The Dresden Dolls,16,9101,tail,True
+1237,CunninLynguists,6,2426,tail,True
+1239,Weezer,88,32136,head,True
+1240,Them Crooked Vultures,10,4302,tail,True
+1241,Skank,27,8633,tail,True
+1242,The Beach Boys,55,22806,head,True
+1243,Mika,91,53918,head,True
+1244,Elvis Presley,95,76175,head,True
+1246,Panic! At the Disco,135,120336,head,True
+1247,The Calling,14,2889,tail,True
+1248,The Darkness,7,2240,tail,True
+1249,Guns N' Roses,161,133931,head,True
+1253,Front Line Assembly,11,3700,tail,True
+1254,Mayhem,9,1378,tail,True
+1257,Overkill,15,7246,tail,True
+1259,Satyricon,8,3390,tail,True
+1260,Marduk,11,7207,tail,True
+1261,Sodom,19,9670,tail,True
+1263,Tristania,9,3338,tail,True
+1264,Carcass,10,4371,tail,True
+1270,Tactical Sekt,6,6022,tail,True
+1274,Sepultura,43,24811,head,True
+1276,Immortal,13,5211,tail,True
+1277,Velvet Acid Christ,9,6891,tail,True
+1281,Cannibal Corpse,20,6185,tail,True
+1285,Talamasca,5,1907,tail,True
+1292,mind.in.a.box,11,5800,tail,True
+1293,Absurd Minds,5,2363,tail,True
+1294,Rotersand,7,2319,tail,True
+1295,VNV Nation,22,11012,tail,True
+1296,Seabound,5,1997,tail,True
+1297,Colony 5,10,5909,tail,True
+1298,Apoptygma Berzerk,23,10125,tail,True
+1299,Suicide Commando,9,3441,tail,True
+1300,Blutengel,20,15772,tail,True
+1303,Assemblage 23,13,6556,tail,True
+1306,Above & Beyond,9,7613,tail,True
+1312,Pride and Fall,6,1838,tail,True
+1315,Wynardtage,5,2014,tail,True
+1332,XP8,6,3085,tail,True
+1337,Nuclear Assault,9,5575,tail,True
+1338,HammerFall,21,10643,tail,True
+1339,Sonata Arctica,37,45666,head,True
+1342,Gamma Ray,10,4055,tail,True
+1343,Queensrÿche,20,10875,tail,True
+1344,Annihilator,10,5277,tail,True
+1347,Sabaton,9,6980,tail,True
+1348,Alestorm,10,5685,tail,True
+1349,Rhapsody of Fire,11,8949,tail,True
+1350,Edguy,21,16069,tail,True
+1351,Tenacious D,32,10162,head,True
+1352,Death Angel,5,1879,tail,True
+1353,Running Wild,8,5100,tail,True
+1358,Judas Priest,86,45672,head,True
+1360,Motörhead,71,31791,head,True
+1364,Exodus,20,7434,tail,True
+1366,W.A.S.P.,25,14087,tail,True
+1369,Black Sabbath,126,131397,head,True
+1372,Deep Purple,76,40664,head,True
+1375,Snow Patrol,115,57847,head,True
+1376,White Lies,51,20674,head,True
+1377,The Fray,78,37800,head,True
+1378,Jimmy Eat World,48,30983,head,True
+1379,Hurts,70,27871,head,True
+1380,Blue October,15,4655,tail,True
+1381,Starsailor,9,2095,tail,True
+1382,David Gray,12,2850,tail,True
+1383,Imogen Heap,38,19176,head,True
+1384,The Verve,39,13693,head,True
+1385,Thirteen Senses,10,4904,tail,True
+1389,Eisley,16,8387,tail,True
+1390,Vampire Weekend,78,35056,head,True
+1392,Lady Sovereign,8,1021,tail,True
+1394,The Chemical Brothers,42,21169,head,True
+1395,Freemasons,6,1769,tail,True
+1396,Digitalism,17,26048,tail,True
+1397,Fatboy Slim,14,6656,tail,True
+1398,Justice,52,20670,head,True
+1399,Armand van Helden,5,4443,tail,True
+1400,MGMT,143,86195,head,True
+1401,deadmau5,21,12773,tail,True
+1402,Ludacris,12,2957,tail,True
+1404,Lone,5,3004,tail,True
+1405,Simian Mobile Disco,13,7553,tail,True
+1406,The Offspring,85,58965,head,True
+1408,MSTRKRFT,5,1141,tail,True
+1409,Calvin Harris,42,23497,head,True
+1410,Pendulum,42,19783,head,True
+1411,King Crimson,31,18426,head,True
+1412,Led Zeppelin,196,203665,head,True
+1413,Genesis,37,14723,head,True
+1414,Paul McCartney,52,25453,head,True
+1415,Creedence Clearwater Revival,65,18449,head,True
+1416,George Harrison,35,19756,head,True
+1418,Mogwai,46,17626,head,True
+1421,Roberto Carlos,5,876,tail,True
+1422,Grateful Dead,8,2017,tail,True
+1423,A Silver Mt. Zion,10,3227,tail,True
+1424,Cat Power,57,35947,head,True
+1425,David Gilmour,24,11295,tail,True
+1426,The Jimi Hendrix Experience,42,11484,head,True
+1427,Stevie Wonder,25,10110,tail,True
+1428,Dulce María,25,21092,tail,True
+1429,Christian Chávez,22,5442,tail,True
+1430,Christopher Von Uckermann,7,1429,tail,True
+1432,Tiziano Ferro,14,5744,tail,True
+1433,Daddy Yankee,12,8299,tail,True
+1436,Luis Fonsi,5,971,tail,True
+1438,Camila,10,3472,tail,True
+1440,David Bisbal,7,1069,tail,True
+1441,Eva Simons,14,4739,tail,True
+1443,Wisin & Yandel,9,4739,tail,True
+1444,Akon,36,57537,head,True
+1447,Lady Antebellum,49,20760,head,True
+1449,Pitbull,33,15593,head,True
+1450,Kristinia DeBarge,18,4578,tail,True
+1451,Girlicious,42,27570,head,True
+1452,Willow Smith,37,11628,head,True
+1453,Selena Gomez,37,13234,head,True
+1455,B.o.B,61,17718,head,True
+1456,Far East Movement,43,11374,head,True
+1457,Cherish,8,3480,tail,True
+1458,Miranda Cosgrove,39,14305,head,True
+1459,Carrie Underwood,76,126314,head,True
+1462,Gloriana,9,2647,tail,True
+1463,Amy Macdonald,30,13401,head,True
+1464,ABBA,73,50132,head,True
+1468,Kansas,16,2179,tail,True
+1469,The Mamas & The Papas,11,3519,tail,True
+1470,Lifehouse,69,71250,head,True
+1475,Ricky Martin,29,15647,head,True
+1481,Matt & Kim,13,6031,tail,True
+1485,Miike Snow,9,3101,tail,True
+1486,Santigold,19,7016,tail,True
+1489,Reba McEntire,9,8247,tail,True
+1491,Antonio Vivaldi,13,9144,tail,True
+1492,The Virgins,5,666,tail,True
+1502,Rooney,15,4133,tail,True
+1503,Nadia Oh,7,3195,tail,True
+1504,Sonic Youth,59,34222,head,True
+1505,Natalie Imbruglia,25,49290,tail,True
+1507,Omarion,6,904,tail,True
+1509,Noel Gallagher,5,2535,tail,False
+1510,Black Rebel Motorcycle Club,32,19988,head,True
+1511,Paolo Nutini,21,7382,tail,True
+1512,The Last Shadow Puppets,51,28029,head,True
+1513,Ramones,104,73961,head,True
+1515,The Fratellis,51,22756,head,True
+1516,The Enemy,6,1429,tail,True
+1517,The Wombats,18,5480,tail,True
+1518,Mumford & Sons,14,3951,tail,True
+1519,Ryan Adams,24,13084,tail,True
+1520,The Hives,33,28143,head,True
+1521,Morbid Angel,16,6908,tail,True
+1522,Destruction,15,5019,tail,True
+1523,Tankard,6,1492,tail,True
+1526,Toxic Holocaust,5,1179,tail,True
+1527,Anthrax,28,14163,head,True
+1528,Municipal Waste,12,5373,tail,True
+1531,Venom,12,2379,tail,True
+1533,Napalm Death,15,5075,tail,True
+1534,The Sisters of Mercy,30,10122,head,True
+1535,Mercyful Fate,9,16601,tail,True
+1537,EMICIDA,5,2851,tail,True
+1540,Bleeding Through,5,2596,tail,True
+1541,The Devil Wears Prada,43,90154,head,True
+1544,J. Holiday,5,665,tail,True
+1545,Raimundos,25,15692,tail,True
+1547,Hatebreed,20,14991,tail,True
+1551,As Blood Runs Black,6,4934,tail,True
+1552,For Today,8,2251,tail,True
+1553,CéU,8,3219,tail,True
+1555,Job for a Cowboy,6,4177,tail,True
+1556,Joss Stone,40,24546,head,True
+1557,Carnifex,8,6043,tail,True
+1561,Beneath the Massacre,5,2044,tail,True
+1576,Dan Balan,6,2683,tail,True
+1580,Paris Hilton,43,13461,head,True
+1590,Skye Sweetnam,15,7936,tail,True
+1596,Christina Milian,22,6870,tail,True
+1597,The Cheetah Girls,7,921,tail,True
+1601,Anastacia,31,21462,head,True
+1602,Shayne Ward,18,22365,tail,True
+1609,Lykke Li,40,13407,head,True
+1610,Jurassic 5,6,2303,tail,True
+1613,Jay-Z,83,37521,head,True
+1614,Atmosphere,9,7494,tail,True
+1620,OutKast,15,9649,tail,True
+1622,De La Soul,12,9305,tail,True
+1627,J Dilla,19,16848,tail,True
+1631,Deltron 3030,6,2153,tail,True
+1632,Metric,54,28106,head,True
+1633,Fleet Foxes,38,17353,head,True
+1636,Jedi Mind Tricks,9,6326,tail,True
+1639,Jimi Hendrix,70,24567,head,True
+1640,GZA/Genius,10,4848,tail,True
+1641,The Game,14,5920,tail,True
+1643,Dave Matthews Band,21,43536,tail,True
+1645,Rancid,21,13661,tail,True
+1648,The Baseballs,5,2333,tail,True
+1650,Anti-Flag,17,13151,tail,True
+1654,Tequila Baby,5,5699,tail,True
+1659,Cine,18,6496,tail,True
+1660,Blind Melon,7,3339,tail,True
+1662,Nenhum de Nós,5,2343,tail,True
+1669,Faichecleres,8,2900,tail,True
+1670,Black Veil Brides,11,16544,tail,True
+1672,Avenged Sevenfold,118,200949,head,True
+1673,Tokio Hotel,43,65344,head,True
+1674,The Medic Droid,5,1488,tail,True
+1678,BrokeNCYDE,20,14557,tail,True
+1679,Stephen Jerzak,9,1351,tail,True
+1680,The Ready Set,6,1322,tail,True
+1681,Charlie Brown Jr.,33,11191,head,True
+1684,Aly & AJ,46,51641,head,True
+1686,Weird Al Yankovic,14,5210,tail,True
+1687,Liz Phair,6,1728,tail,True
+1688,iamamiwhoami,12,7080,tail,True
+1689,Bowling for Soup,18,12331,tail,True
+1690,Victoria Justice,8,809,tail,True
+1691,Orianthi,7,1088,tail,True
+1694,Dolly Parton,11,11865,tail,True
+1696,Billy Ray Cyrus,6,5329,tail,True
+1698,Sterling Knight,10,2903,tail,True
+1700,Clint Mansell,29,14307,head,True
+1701,Puscifer,6,2469,tail,True
+1703,The Cult,12,4237,tail,True
+1704,Unheilig,11,14209,tail,True
+1705,Hans Zimmer,45,31254,head,True
+1706,Black Light Burns,5,4795,tail,True
+1707,Dead Can Dance,27,16658,tail,True
+1708,Philip Glass,13,8010,tail,True
+1709,Brian Eno,22,10648,tail,True
+1710,Therion,16,13894,tail,True
+1711,Eisbrecher,10,3779,tail,True
+1713,Dave Gahan,58,55944,head,True
+1714,Oomph!,22,11576,tail,True
+1717,Peter Broderick,7,1294,tail,True
+1718,Ani DiFranco,10,6193,tail,True
+1721,Jens Lekman,6,1050,tail,True
+1725,Jon Foreman,6,4496,tail,True
+1726,Elio e le Storie Tese,7,4271,tail,True
+1729,Craig Armstrong,6,6764,tail,True
+1731,Hammock,17,14712,tail,True
+1732,Joanna Newsom,14,8460,tail,True
+1735,Seabear,9,2594,tail,True
+1736,Balmorhea,11,2793,tail,True
+1737,Do Make Say Think,7,1370,tail,True
+1738,Soulwax,10,4613,tail,True
+1740,Soundtrack,11,1451,tail,True
+1743,Ludovico Einaudi,11,2649,tail,True
+1745,Apparat,25,13415,tail,True
+1747,Ólafur Arnalds,20,9433,tail,True
+1752,Ellen Allien,8,2261,tail,True
+1755,Chico Buarque,33,22781,head,True
+1760,Renato Russo,7,3184,tail,True
+1761,Marcelo Camelo,10,2294,tail,True
+1763,Maria Rita,12,4022,tail,True
+1764,Caetano Veloso,19,5487,tail,True
+1766,Little Joy,24,8518,tail,True
+1767,Carla Bruni,15,5975,tail,True
+1768,Pato Fu,15,7624,tail,True
+1770,Erik Satie,8,2986,tail,True
+1771,Rita Lee,14,6644,tail,True
+1772,Norah Jones,54,34934,head,True
+1775,Cássia Eller,28,8161,head,True
+1776,Tiê,8,3080,tail,True
+1777,Adam Green,5,851,tail,True
+1778,Eddie Vedder,21,10741,tail,True
+1781,Emilie Simon,17,7088,tail,True
+1782,Jonathan Larson,10,7594,tail,True
+1786,Сплин,16,6031,tail,True
+1787,UNKLE,25,8627,tail,True
+1788,Агата Кристи,14,15704,tail,True
+1789,5'nizza,9,4114,tail,True
+1790,Archive,24,6292,tail,True
+1791,Океан Ельзи,9,3505,tail,True
+1793,Schiller,15,10264,tail,True
+1795,Sting,31,8625,head,True
+1796,Nautilus Pompilius,11,4466,tail,True
+1797,Guano Apes,17,8268,tail,True
+1799,Indochine,8,2854,tail,True
+1800,Amethystium,13,4154,tail,True
+1801,Nightmares on Wax,7,765,tail,True
+1802,The Shadows,5,1142,tail,True
+1803,Mötley Crüe,51,33624,head,True
+1804,T. Rex,21,10651,tail,True
+1806,Syd Barrett,17,11468,tail,True
+1807,The Runaways,23,10035,tail,True
+1808,Ratt,15,2565,tail,True
+1809,Stryper,5,1689,tail,True
+1810,Def Leppard,40,19407,head,True
+1811,Patti Smith,13,3319,tail,True
+1812,Jerry Cantrell,5,1589,tail,True
+1813,The Black Crowes,9,5657,tail,True
+1814,Sex Pistols,33,8969,head,True
+1816,Héroes del Silencio,8,4433,tail,True
+1817,L7,10,3179,tail,True
+1820,Donna Summer,10,3484,tail,True
+1824,Zero 7,21,9750,tail,True
+1825,The Jacksons,8,3811,tail,True
+1826,Isaac Hayes,6,1781,tail,True
+1827,808 State,5,4039,tail,True
+1832,Chic,5,2941,tail,True
+1833,Nina Simone,22,9714,tail,True
+1834,Diana Ross,7,1601,tail,True
+1835,The Cinematic Orchestra,13,4005,tail,True
+1836,Art of Noise,8,7887,tail,True
+1837,Scott Walker,8,5919,tail,True
+1839,Little Brother,5,2368,tail,True
+1844,Grace Jones,11,3931,tail,True
+1848,Sarah Vaughan,5,1023,tail,True
+1852,Red,24,12430,tail,True
+1853,blessthefall,32,34500,head,True
+1854,Breaking Benjamin,69,52706,head,True
+1855,Pillar,6,2271,tail,True
+1857,YUI,17,13762,tail,True
+1858,Thrice,19,20123,tail,True
+1859,Thousand Foot Krutch,15,8077,tail,True
+1860,Jay-Z and Linkin Park,9,1376,tail,True
+1861,Heaven Shall Burn,11,5016,tail,True
+1863,Hollywood Undead,20,13405,tail,True
+1866,Yellowcard,46,20893,head,True
+1867,Disciple,5,4310,tail,True
+1868,A Skylit Drive,18,25524,tail,True
+1870,Dope,15,8447,tail,True
+1873,Audioslave,46,18727,head,True
+1874,Hoobastank,27,12565,tail,True
+1875,The Frames,6,18964,tail,True
+1878,Devo,15,10456,tail,True
+1881,XTC,15,6417,tail,True
+1883,The Cars,10,4004,tail,True
+1884,Midnight Oil,6,1499,tail,True
+1885,Dead or Alive,9,4844,tail,True
+1886,Gary Numan,36,22299,head,True
+1888,Wire,15,7993,tail,True
+1889,Oingo Boingo,13,5289,tail,True
+1890,Sparks,10,12055,tail,True
+1891,Thomas Dolby,11,3145,tail,True
+1892,Eurythmics,34,14308,head,True
+1893,Yellow Magic Orchestra,8,6126,tail,True
+1895,Visage,14,5834,tail,True
+1897,John Foxx,11,4781,tail,True
+1899,Scritti Politti,5,1046,tail,True
+1900,Yello,6,1647,tail,True
+1901,They Might Be Giants,12,7406,tail,True
+1904,SHINee,14,64256,tail,True
+1905,Shinedown,21,8140,tail,True
+1910,the GazettE,12,9771,tail,True
+1913,Ария,10,6177,tail,True
+1914,The 69 Eyes,21,5768,tail,True
+1918,동방신기,10,4689,tail,True
+1919,HIGH and MIGHTY COLOR,6,5894,tail,True
+1922,Rie fu,5,2730,tail,True
+1923,ギルガメッシュ,5,5482,tail,True
+1929,ASIAN KUNG-FU GENERATION,10,3334,tail,True
+1934,Adele,126,75169,head,True
+1935,Solange,12,1969,tail,True
+1936,Jennifer Hudson,22,11450,tail,True
+1937,Michelle Williams,12,4384,tail,True
+1941,Gnarls Barkley,17,5905,tail,True
+1943,Flying Lotus,26,13178,tail,True
+1944,The Mountain Goats,17,23212,tail,True
+1945,Daedelus,9,3847,tail,True
+1946,Madlib,16,17118,tail,True
+1947,Neutral Milk Hotel,24,9255,tail,True
+1948,Quasimoto,8,2419,tail,True
+1949,Okkervil River,7,3069,tail,True
+1950,Madvillain,12,10179,tail,True
+1952,Raekwon,11,5970,tail,True
+1953,Onra,6,2341,tail,True
+1954,Yeasayer,18,5051,tail,True
+1957,Pavement,25,11732,tail,True
+1958,The Flaming Lips,24,7237,tail,True
+1959,Blu & Exile,5,2383,tail,True
+1960,Lightspeed Champion,7,2120,tail,True
+1963,MF DOOM,17,9627,tail,True
+1964,Deerhunter,29,21943,head,True
+1965,Four Tet,15,7362,tail,True
+1966,Someone Still Loves You Boris Yeltsin,5,1341,tail,True
+1969,Prefuse 73,20,10193,tail,True
+1970,The Avalanches,7,2061,tail,True
+1971,Laura Marling,17,9968,tail,True
+1974,Rage Against the Machine,68,31514,head,True
+1975,O.S.T.R.,14,18045,tail,True
+1976,The Black Keys,38,23022,head,True
+1977,The Raconteurs,22,7994,tail,True
+1978,Cool Kids of Death,7,7121,tail,True
+1979,Cypress Hill,19,10882,tail,True
+1980,Czesław Śpiewa,10,4435,tail,True
+1981,Kult,9,8091,tail,True
+1983,The Knife,43,28956,head,True
+1984,Pidżama Porno,9,18160,tail,True
+1985,Chris Cornell,13,4635,tail,True
+1986,Metronomy,14,4033,tail,True
+1988,The Subways,33,15413,head,True
+1989,Paktofonika,5,1703,tail,True
+1990,Fever Ray,20,10447,tail,True
+1992,King Diamond,17,15888,tail,True
+1994,Devin Townsend,10,9490,tail,True
+1998,Liquid Tension Experiment,5,883,tail,True
+2000,いきものがかり,7,5798,tail,True
+2003,Spock's Beard,6,2278,tail,True
+2006,Pain of Salvation,27,25719,tail,True
+2009,DragonForce,10,2794,tail,True
+2013,Blue Öyster Cult,18,7456,tail,True
+2014,Lacuna Coil,52,18911,head,True
+2018,September,28,13569,head,True
+2019,Stacie Orrico,10,5636,tail,True
+2020,Leighton Meester,57,75372,head,True
+2021,Victoria Beckham,8,4027,tail,True
+2022,Melanie C,18,14766,tail,True
+2023,Gloria Estefan,6,1129,tail,True
+2024,Emma Bunton,13,7343,tail,True
+2025,Simon Curtis,32,14536,head,True
+2026,The Residents,13,17896,tail,True
+2027,Frankie Goes to Hollywood,10,1929,tail,True
+2028,Пикник,5,2109,tail,True
+2029,Madness,16,4739,tail,True
+2030,Coil,18,11357,tail,True
+2031,Bee Gees,17,6894,tail,True
+2035,Steve Jablonsky,6,10450,tail,True
+2038,In Extremo,10,11431,tail,True
+2039,Deutsch Amerikanische Freundschaft,6,2400,tail,True
+2043,Cabaret Voltaire,11,3029,tail,True
+2044,Sarah Brightman,25,137581,tail,True
+2047,Andrea Bocelli,12,4808,tail,True
+2051,Josh Groban,19,18026,tail,True
+2054,Emma Shapplin,8,2708,tail,True
+2055,Andrew Lloyd Webber,11,3550,tail,True
+2059,Vanessa-Mae,7,3112,tail,True
+2062,In This Moment,16,8231,tail,True
+2067,Lara Fabian,14,3545,tail,True
+2068,Yiruma,9,3959,tail,True
+2071,Michael Giacchino,8,3167,tail,True
+2075,Gregorian,11,2657,tail,True
+2076,Katherine Jenkins,5,1975,tail,True
+2079,Sissel,5,5687,tail,True
+2080,NX Zero,45,19046,head,True
+2081,Dev,10,1708,tail,True
+2082,Marjorie Estiano,12,3809,tail,True
+2083,M.I.A.,80,42418,head,True
+2084,DJ Earworm,5,310,tail,True
+2086,Perfume,14,18624,tail,True
+2088,Alan,5,6235,tail,True
+2089,티아라,10,7238,tail,True
+2091,4minute,24,17926,tail,True
+2092,소녀시대,24,23242,tail,True
+2094,BoA,63,54663,head,True
+2097,Brown Eyed Girls,10,5403,tail,True
+2098,Kara,7,3962,tail,True
+2100,D'espairsRay,5,7538,tail,True
+2101,Capsule,13,15289,tail,True
+2102,倖田來未,29,99845,head,True
+2104,ルルティア,5,3126,tail,True
+2106,U-KISS,7,3295,tail,True
+2111,鬼束ちひろ,5,4056,tail,True
+2121,OK Go,25,6877,tail,True
+2123,Alex Turner,5,1115,tail,True
+2127,The Turtles,7,674,tail,True
+2128,The Rascals,8,1175,tail,True
+2130,Brandon Flowers,23,8147,tail,True
+2131,Dirty Pretty Things,19,8138,tail,True
+2132,Dizzee Rascal,6,1787,tail,True
+2133,Milburn,9,5494,tail,True
+2134,Julian Casablancas,13,5985,tail,True
+2136,Serge Gainsbourg,12,16649,tail,True
+2137,Two Door Cinema Club,35,9716,head,True
+2139,Beach House,27,22761,tail,True
+2143,DevilDriver,14,9334,tail,True
+2146,AFX,12,3297,tail,True
+2148,2H Company,6,2916,tail,True
+2149,Booka Shade,7,1831,tail,True
+2150,Fightstar,13,11969,tail,True
+2151,Meshuggah,15,6046,tail,True
+2154,Jane Air,7,3489,tail,True
+2158,Mujuice,8,1798,tail,True
+2161,Wisp,8,1346,tail,True
+2165,Enduser,6,2109,tail,True
+2172,Gojira,11,17754,tail,True
+2174,edIT,8,2441,tail,True
+2175,Etta James,5,672,tail,True
+2176,Michael Bublé,46,13813,head,True
+2179,50 Cent,35,96353,head,True
+2183,Heart,17,3197,tail,True
+2184,Maysa,11,5965,tail,True
+2187,Stick to Your Guns,6,1599,tail,True
+2192,Miss May I,9,7981,tail,True
+2193,Каста,6,866,tail,True
+2196,Gallows,5,721,tail,True
+2200,We Butter The Bread With Butter,10,20823,tail,True
+2203,Abandon All Ships,6,3605,tail,True
+2204,Of Mice & Men,7,7198,tail,True
+2206,Chevelle,20,14748,tail,True
+2210,Attack Attack!,18,28672,tail,True
+2211,Austrian Death Machine,5,1065,tail,True
+2214,The Word Alive,11,16035,tail,True
+2220,Aaliyah,22,11936,tail,True
+2222,Bone Thugs-N-Harmony,10,5952,tail,True
+2226,Snoop Dogg,23,12615,tail,True
+2236,Ice Cube,12,14024,tail,True
+2242,Wiz Khalifa,9,15418,tail,True
+2247,Dr. Dre,17,9959,tail,True
+2251,N.W.A,6,2411,tail,True
+2252,Mobb Deep,13,13960,tail,True
+2264,Land of Talk,5,3054,tail,True
+2265,Simon & Garfunkel,40,16625,head,True
+2268,Dirty Projectors,7,2052,tail,True
+2269,Page France,5,1366,tail,True
+2271,Death from Above 1979,13,4686,tail,True
+2276,Pedro the Lion,9,1345,tail,True
+2277,Feist,61,21972,head,True
+2279,The Microphones,6,2027,tail,True
+2280,The Apples in Stereo,5,1758,tail,True
+2281,Deerhoof,10,6067,tail,True
+2289,Stereolab,17,5221,tail,True
+2298,Sezen Aksu,5,5221,tail,True
+2300,Ezginin Günlüğü,6,16360,tail,True
+2312,Ahmet Kaya,9,4486,tail,True
+2330,Goran Bregović,5,1852,tail,True
+2338,Şebnem Ferah,7,1622,tail,True
+2339,Teoman,8,1842,tail,True
+2341,Twisted Sister,13,5969,tail,True
+2342,Dio,38,30208,head,True
+2343,KISS,82,44187,head,True
+2344,Massacration,8,2357,tail,True
+2346,Aerosmith,91,44878,head,True
+2347,Van Halen,54,20205,head,True
+2350,Buckcherry,7,4415,tail,True
+2351,Joan Jett,6,636,tail,True
+2352,Creed,38,10754,head,True
+2360,Airbourne,7,898,tail,True
+2362,Monster Magnet,10,3482,tail,True
+2363,Hardcore Superstar,10,4758,tail,True
+2364,The Hellacopters,10,6048,tail,True
+2366,Karnivool,7,3789,tail,True
+2369,Type O Negative,18,13068,tail,True
+2370,Amorphis,22,8635,tail,True
+2372,Backyard Babies,10,7349,tail,True
+2374,Ghost Brigade,6,3649,tail,True
+2375,Primus,12,3260,tail,True
+2379,Trivium,32,23772,head,True
+2380,Godsmack,23,10373,tail,True
+2381,Dethklok,11,4947,tail,True
+2383,Amatory,6,3953,tail,True
+2384,Unearth,7,2176,tail,True
+2390,Mónica Naranjo,7,2437,tail,True
+2392,Jessie James,19,4919,tail,True
+2395,Chayanne,8,3362,tail,True
+2396,Yuri,5,1312,tail,True
+2398,Final Fantasy,14,7437,tail,True
+2402,Xiu Xiu,10,5297,tail,True
+2405,TV on the Radio,9,2215,tail,True
+2407,Stars,21,11637,tail,True
+2408,Destroyer,5,882,tail,True
+2415,Built to Spill,13,3100,tail,True
+2416,The Fiery Furnaces,6,2999,tail,True
+2419,Billie Holiday,17,6706,tail,True
+2424,The New Pornographers,16,11815,tail,True
+2425,Copeland,16,8056,tail,True
+2426,I See Stars,7,13075,tail,True
+2428,Kyo,6,4567,tail,True
+2429,Architects,11,6365,tail,True
+2430,From First to Last,16,9848,tail,True
+2432,Porcelain and the Tramps,11,4530,tail,True
+2433,Coeur de Pirate,9,1897,tail,True
+2435,Aloha From Hell,13,3926,tail,True
+2436,Keith Urban,11,11509,tail,True
+2437,Martina McBride,6,3708,tail,True
+2439,Rascal Flatts,21,10902,tail,True
+2440,Juanes,15,4606,tail,True
+2442,Garth Brooks,12,12312,tail,True
+2444,Billy Joel,23,10670,tail,True
+2446,Howard Shore,20,17265,tail,True
+2449,Brooks & Dunn,9,6564,tail,True
+2451,Josh Turner,5,2499,tail,True
+2453,Tim McGraw,8,9234,tail,True
+2454,Faith Hill,11,6167,tail,True
+2455,Toby Keith,9,3054,tail,True
+2458,Nat King Cole,7,1976,tail,True
+2459,Glenn Miller,8,3059,tail,True
+2460,João Gilberto,6,1586,tail,True
+2462,Reik,10,2342,tail,True
+2463,Boston,18,7251,tail,True
+2467,George Strait,11,14191,tail,True
+2468,Alan Jackson,9,6423,tail,True
+2469,Peter Gabriel,18,7664,tail,True
+2470,Throbbing Gristle,12,6645,tail,True
+2471,Current 93,7,4581,tail,True
+2472,Foetus,5,5988,tail,True
+2473,Fantômas,13,9316,tail,True
+2475,Captain Beefheart & His Magic Band,16,6619,tail,True
+2478,Danny Elfman,17,14382,tail,True
+2481,The Birthday Party,5,3397,tail,True
+2486,Psychic TV,6,5357,tail,True
+2487,Happy Mondays,5,3510,tail,True
+2488,Public Image Ltd.,7,1511,tail,True
+2490,The Specials,6,1876,tail,True
+2491,Mike Patton,5,5513,tail,True
+2493,Mr. Bungle,16,6096,tail,True
+2498,Basshunter,23,12551,tail,True
+2500,Scooter,12,8600,tail,True
+2515,Agnieszka Chylińska,7,1932,tail,True
+2521,Robyn,85,63510,head,True
+2523,Spice Girls,60,31309,head,True
+2524,Mando Diao,28,31516,head,True
+2526,Sunrise Avenue,10,4072,tail,True
+2531,Morrissey,60,48397,head,True
+2532,Super Furry Animals,8,2292,tail,True
+2533,The Drums,14,7322,tail,True
+2534,Wild Nothing,5,452,tail,True
+2535,LCD Soundsystem,29,10640,head,True
+2537,Graham Coxon,7,3407,tail,True
+2538,The Pains of Being Pure at Heart,10,2528,tail,True
+2539,Beady Eye,6,1287,tail,True
+2541,Best Coast,12,5812,tail,True
+2542,My Bloody Valentine,41,14721,head,True
+2543,Lolene,18,13498,tail,True
+2544,KT Tunstall,33,23423,head,True
+2545,Paula Fernandes,9,1598,tail,True
+2546,Vanessa Carlton,18,14926,tail,True
+2548,Wanessa,30,87617,head,True
+2552,Culture Club,10,6246,tail,True
+2554,Hall & Oates,15,9482,tail,True
+2556,The Power Station,8,6590,tail,True
+2558,Toto,12,3094,tail,True
+2559,Kajagoogoo,7,5468,tail,True
+2562,Arcadia,12,14474,tail,True
+2565,Extreme,6,1318,tail,True
+2569,Styx,7,1514,tail,True
+2572,Minus the Bear,14,14157,tail,True
+2573,The Appleseed Cast,9,6483,tail,True
+2574,The Fall of Troy,14,8345,tail,True
+2576,Protest The Hero,18,14445,tail,True
+2579,Between the Buried and Me,11,3319,tail,True
+2580,Biffy Clyro,21,10646,tail,True
+2582,Foals,35,11049,head,True
+2584,Rogue Wave,7,2706,tail,True
+2585,toe,5,930,tail,True
+2586,Born of Osiris,11,8350,tail,True
+2587,Late of the Pier,14,6928,tail,True
+2591,The Maccabees,11,4386,tail,True
+2593,Battles,8,1657,tail,True
+2594,SikTh,6,2608,tail,True
+2595,Slash,23,3187,tail,True
+2598,will.i.am,7,529,tail,True
+2600,We Are Scientists,23,6563,tail,True
+2601,Mystery Jets,10,3242,tail,True
+2602,Delphic,9,2480,tail,True
+2605,Bonobo,44,14601,head,True
+2606,The Stone Roses,16,8255,tail,True
+2607,The Script,30,14790,head,True
+2608,City and Colour,36,23611,head,True
+2609,UB40,6,1481,tail,True
+2610,The Temper Trap,13,6700,tail,True
+2611,The Vaccines,8,1768,tail,True
+2612,Newton Faulkner,11,3353,tail,True
+2614,Razorlight,26,9380,tail,True
+2616,Nouvelle Vague,26,8011,tail,True
+2617,Pierce the Veil,10,9670,tail,True
+2618,Before Their Eyes,13,7945,tail,True
+2619,VersaEmerge,22,26329,tail,True
+2621,We Came As Romans,10,6180,tail,True
+2624,Frank Zappa,30,32919,head,True
+2625,Barenaked Ladies,7,2714,tail,True
+2626,Randy Newman,5,2842,tail,True
+2627,Ben Folds,13,16312,tail,True
+2628,The Weakerthans,5,4058,tail,True
+2629,Elvis Costello,18,7870,tail,True
+2630,Paul Simon,7,4173,tail,True
+2632,Rufus Wainwright,22,13229,tail,True
+2633,Elvis Costello & The Attractions,8,3350,tail,True
+2634,Stephen Sondheim,5,1136,tail,True
+2637,Sublime,28,16533,head,True
+2638,Ella Fitzgerald,12,3073,tail,True
+2639,Ben Folds Five,7,4821,tail,True
+2640,Neko Case,8,3932,tail,True
+2641,Calexico,8,3160,tail,True
+2643,Thursday,6,3533,tail,True
+2645,Alexander Rybak,5,8808,tail,True
+2646,Manga,6,407,tail,True
+2652,The Classic Crime,5,15557,tail,True
+2653,A Rocket to the Moon,13,9997,tail,True
+2654,Bloodbath,14,13988,tail,True
+2655,Reação em Cadeia,7,6185,tail,True
+2660,Bidê ou Balde,7,7932,tail,True
+2661,Anberlin,37,27969,head,True
+2664,Lordi,9,4890,tail,True
+2665,The Cab,9,3671,tail,True
+2666,This Providence,6,2916,tail,True
+2667,The Flashbulb,19,13226,tail,True
+2668,Amon Tobin,25,9929,tail,True
+2669,µ-Ziq,7,3034,tail,True
+2670,Chris Clark,7,2432,tail,True
+2671,Kettel,10,4841,tail,True
+2672,Clark,9,3848,tail,True
+2673,Plaid,16,9192,tail,True
+2675,Ellen Allien & Apparat,6,1351,tail,True
+2676,Tycho,10,8245,tail,True
+2677,Bola,10,3309,tail,True
+2681,The Future Sound of London,14,4611,tail,True
+2688,Wagon Christ,6,764,tail,True
+2691,Telefon Tel Aviv,18,17096,tail,True
+2693,Sabrepulse,5,1965,tail,True
+2698,Public Enemy,9,5831,tail,True
+2699,Кровосток,7,4091,tail,True
+2702,Bondage Fairies,7,6887,tail,True
+2708,The Rapture,9,3397,tail,True
+2711,Parov Stelar,12,4390,tail,True
+2716,DJ Shadow,20,10078,tail,True
+2723,Set Your Goals,6,5244,tail,True
+2735,Ляпис Трубецкой,10,9941,tail,True
+2738,Bloodhound Gang,17,8902,tail,True
+2742,Steppenwolf,7,3295,tail,True
+2743,Ногу Свело!,5,2754,tail,True
+2744,Machine Head,23,10906,tail,True
+2746,Korpiklaani,15,12266,tail,True
+2747,Дельфин,16,7797,tail,True
+2749,Deathspell Omega,6,2943,tail,True
+2763,Decapitated,5,1292,tail,True
+2765,Vader,11,3614,tail,True
+2771,Russian Circles,8,3085,tail,True
+2772,Blut aus Nord,6,2351,tail,True
+2775,dredg,18,14994,tail,True
+2781,Vains of Jenna,5,2821,tail,True
+2783,Lenny Kravitz,25,4282,tail,True
+2784,Hanoi Rocks,12,3944,tail,True
+2785,Sixx:A.M.,13,3765,tail,True
+2786,Janis Joplin,41,18578,head,True
+2787,Whitesnake,42,14523,head,True
+2788,Joan Jett and the Blackhearts,16,4932,tail,True
+2789,Velvet Revolver,12,2667,tail,True
+2790,CRASHDÏET,15,6481,tail,True
+2794,Alter Bridge,23,10040,tail,True
+2797,Mr. Big,20,10505,tail,True
+2799,f(x),7,4221,tail,True
+2801,High School Musical,28,7958,head,True
+2803,MBLAQ,5,4719,tail,True
+2811,Xploding Plastix,8,2451,tail,True
+2813,Dub FX,6,2108,tail,True
+2815,Maxïmo Park,27,11701,tail,True
+2817,Cult of Luna,7,1624,tail,True
+2818,The Bloody Beetroots,14,6617,tail,True
+2820,Sakura,6,4069,tail,True
+2821,The Dead Weather,21,6171,tail,True
+2823,Eagles of Death Metal,11,3680,tail,True
+2824,Paul Kalkbrenner,10,5593,tail,True
+2828,Red Sparowes,6,1321,tail,True
+2829,Flobots,10,1981,tail,True
+2830,Kap Bambino,6,1043,tail,True
+2834,Lynyrd Skynyrd,35,20962,head,True
+2835,Serj Tankian,21,17594,tail,True
+2836,Scars on Broadway,10,8313,tail,True
+2838,Manowar,20,18315,tail,True
+2839,Automatic Loveletter,17,10768,tail,True
+2840,Dashboard Confessional,35,30349,head,True
+2841,Gym Class Heroes,6,2418,tail,True
+2842,Stevie Ray Vaughan,17,5530,tail,True
+2843,Trapt,15,9633,tail,True
+2847,Emarosa,16,14116,tail,True
+2850,Underoath,43,51988,head,True
+2851,Powerman 5000,5,2401,tail,True
+2852,Jim Sturgess,7,2386,tail,True
+2853,Thin Lizzy,15,6829,tail,True
+2855,Cream,33,8561,head,True
+2857,Donovan,8,906,tail,True
+2858,Jace Everett,5,536,tail,True
+2859,Warrant,5,1432,tail,True
+2861,Rod Stewart,14,4468,tail,True
+2864,Stevie Ray Vaughan and Double Trouble,15,3074,tail,True
+2871,Rory Gallagher,8,5035,tail,True
+2873,Joe Bonamassa,8,2592,tail,True
+2893,Van Morrison,14,4616,tail,True
+2894,Buddy Guy,10,3015,tail,True
+2896,Albert Collins,8,1307,tail,True
+2899,The Animals,11,1941,tail,True
+2901,ZZ Top,25,7144,tail,True
+2902,Buddy Holly,16,10801,tail,True
+2906,"Royce da 5'9""",8,11042,tail,True
+2907,Redman,5,2578,tail,True
+2916,Lloyd Banks,7,12200,tail,True
+2919,Busta Rhymes,11,28020,tail,True
+2921,Ghostface Killah,16,5630,tail,True
+2923,Lupe Fiasco,24,9223,tail,True
+2924,G-Unit,6,17523,tail,True
+2930,Big Punisher,6,1870,tail,True
+2931,Talib Kweli,7,3659,tail,True
+2935,Iris,7,1859,tail,True
+2936,A Flock of Seagulls,18,5399,tail,True
+2937,Naked Eyes,8,1447,tail,True
+2938,Echo & The Bunnymen,29,11388,head,True
+2939,JLS,11,5176,tail,True
+2940,Dead by April,21,33037,tail,True
+2941,Hinder,16,7042,tail,True
+2944,Machinae Supremacy,9,9290,tail,True
+2952,Azam Ali,5,977,tail,True
+2956,Adema,20,6600,tail,True
+2959,Eyes Set to Kill,23,16561,tail,True
+2961,Pain,17,12451,tail,True
+2962,Devin Townsend Project,9,5712,tail,True
+2963,Norther,13,12723,tail,True
+2964,Strapping Young Lad,8,2307,tail,True
+2966,Insomnium,9,4270,tail,True
+2967,Murderdolls,7,2554,tail,True
+2969,Wintersun,7,1993,tail,True
+2970,Hypocrisy,16,5933,tail,True
+2971,Animals as Leaders,5,2679,tail,True
+2973,Dokken,11,6465,tail,True
+2975,Firewind,9,1288,tail,True
+2976,Chamillionaire,7,3586,tail,True
+2977,Kris Allen,35,23824,head,True
+2978,Dead by Sunrise,8,7649,tail,True
+2981,Christina Perri,8,2129,tail,True
+2982,The Band Perry,8,4800,tail,True
+2983,Detonautas Roque Clube,13,9192,tail,True
+2984,Claudia Leitte,16,8219,tail,True
+2986,Rosa De Saron,11,2359,tail,True
+2987,HEVO84,13,4284,tail,True
+2988,Maria Gadú,18,3225,tail,True
+2990,Shontelle,24,8727,tail,True
+3003,Duke Ellington,6,1358,tail,True
+3011,The Stooges,11,3042,tail,True
+3019,Louis Armstrong,11,4755,tail,True
+3024,T-Bone Walker,5,1048,tail,True
+3026,The Whitest Boy Alive,9,4879,tail,True
+3027,Evergreen Terrace,5,4345,tail,True
+3028,Converge,19,13892,tail,True
+3030,Bombay Bicycle Club,16,5926,tail,True
+3032,Comeback Kid,11,6713,tail,True
+3033,The Scene Aesthetic,5,1213,tail,True
+3040,La Dispute,7,3655,tail,True
+3041,Polar Bear Club,5,1649,tail,True
+3043,Have Heart,9,3697,tail,True
+3046,Zемфира,21,21772,tail,True
+3047,Би-2,9,1426,tail,True
+3051,Submersed,5,651,tail,True
+3053,Кино,12,6357,tail,True
+3056,Ночные Снайперы,5,1868,tail,True
+3057,Regina Spektor,92,65641,head,True
+3058,The Puppini Sisters,5,1243,tail,True
+3060,Sin Bandera,6,1311,tail,True
+3063,Luis Miguel,13,5468,tail,True
+3065,Ringo Starr,8,1705,tail,True
+3067,Bonnie Tyler,7,3310,tail,True
+3070,Carpenters,8,1803,tail,True
+3071,Paul McCartney & Wings,15,4700,tail,True
+3073,Jesse & Joy,6,1428,tail,True
+3074,Jay Vaquer,14,8082,tail,True
+3078,Relient K,24,10401,tail,True
+3079,The Click Five,6,2002,tail,True
+3080,Colby O'Donis,6,3989,tail,True
+3081,Sara Bareilles,32,25153,head,True
+3082,Framing Hanley,6,7151,tail,True
+3084,Sick Puppies,17,8513,tail,True
+3087,Dope Stars Inc.,7,3508,tail,True
+3088,Black Tide,5,2001,tail,True
+3094,The Exies,7,4292,tail,True
+3097,Matchbox Twenty,25,12876,tail,True
+3104,Seal,5,6187,tail,True
+3105,Guster,6,6413,tail,True
+3109,Sneaker Pimps,20,20402,tail,True
+3110,Fiona Apple,35,20697,head,True
+3112,Sean Lennon,7,3247,tail,True
+3119,Suzanne Vega,13,3317,tail,True
+3124,We Are the Fallen,9,5206,tail,True
+3125,Megh Stock,6,1883,tail,True
+3127,BarlowGirl,8,4759,tail,True
+3128,Lenka,8,2873,tail,True
+3129,Courtney Love,5,3157,tail,True
+3132,DJ Krush,9,4432,tail,True
+3158,Sébastien Tellier,8,1717,tail,True
+3164,Flunk,11,4195,tail,True
+3171,James Morrison,29,11203,head,True
+3173,Ivete Sangalo,24,10309,tail,True
+3176,Kelly Key,7,12157,tail,True
+3177,Anniela,5,2212,tail,True
+3183,Ashbury Heights,8,7561,tail,True
+3184,L'Âme Immortelle,12,8905,tail,True
+3186,Vive la Fête,20,6258,tail,True
+3187,Kudai,13,7170,tail,True
+3191,Diorama,7,8248,tail,True
+3193,Belanova,13,5652,tail,True
+3196,Alice in Videoland,10,3859,tail,True
+3197,Theatre of Tragedy,13,3971,tail,True
+3198,Dangerous Muse,13,27321,tail,True
+3200,Cansei de Ser Sexy,82,38781,head,True
+3201,Kate Bush,42,17408,head,True
+3202,Charlotte Gainsbourg,6,1900,tail,True
+3204,Biquini Cavadão,7,2802,tail,True
+3205,Mallu Magalhães,16,6317,tail,True
+3206,The Bird and The Bee,13,5120,tail,True
+3213,Michael Andrews,8,3707,tail,True
+3217,近藤浩治,6,1228,tail,True
+3227,Wu-Tang Clan,20,21097,tail,True
+3230,The Moody Blues,6,3493,tail,True
+3237,Hey,8,9338,tail,True
+3238,Coma,12,6283,tail,True
+3239,Otep,13,4108,tail,True
+3240,Drowning Pool,15,10468,tail,True
+3244,Deathstars,18,7938,tail,True
+3247,Family Force 5,9,2222,tail,True
+3252,Kashmir,6,2981,tail,True
+3255,Athlete,11,2771,tail,True
+3258,The Shins,35,20635,head,True
+3259,Blonde Redhead,25,14268,tail,True
+3264,Marillion,15,12812,tail,True
+3266,The Ark,7,3757,tail,True
+3267,Fabrizio De André,5,1731,tail,True
+3272,Steven Wilson,8,3207,tail,True
+3279,The Jesus and Mary Chain,20,6517,tail,True
+3280,Cocteau Twins,38,43440,head,True
+3281,The B-52's,18,10193,tail,True
+3285,My Life with the Thrill Kill Kult,5,5171,tail,True
+3288,Annie,16,5583,tail,True
+3289,Front 242,16,7054,tail,True
+3290,Cranes,8,1664,tail,True
+3291,The Creatures,5,752,tail,True
+3293,Black Kids,11,1901,tail,True
+3294,Galaxie 500,7,1889,tail,True
+3299,The Fall,9,4180,tail,True
+3300,Robots in Disguise,8,3382,tail,True
+3302,Phil Collins,24,9848,tail,True
+3304,Barbra Streisand,5,3168,tail,True
+3307,Eros Ramazzotti,9,4585,tail,True
+3308,Supertramp,14,8235,tail,True
+3310,Édith Piaf,16,4221,tail,True
+3313,The Jackson 5,12,4239,tail,True
+3314,Mýa,7,4197,tail,True
+3316,Sean Paul,14,2240,tail,True
+3317,Drake,34,15883,head,True
+3318,Trey Songz,15,12471,tail,True
+3319,Diana Vickers,18,6370,tail,True
+3320,Lee Ryan,7,6798,tail,True
+3321,Brooke White,6,1190,tail,True
+3322,Pete Yorn & Scarlett Johansson,7,4857,tail,True
+3324,安室奈美恵,26,31421,tail,True
+3328,HorrorPops,10,5690,tail,True
+3330,Tata Young,5,2863,tail,True
+3332,Sandy e Junior,23,7056,tail,True
+3333,The Distillers,23,14885,tail,True
+3335,Cap'n Jazz,5,1755,tail,True
+3341,Motion City Soundtrack,16,12486,tail,True
+3354,Black Flag,13,6622,tail,True
+3357,Notorious B.I.G.,12,9340,tail,True
+3364,Fugazi,17,5255,tail,True
+3367,Cinema Bizarre,17,8214,tail,True
+3369,New Years Day,7,2522,tail,True
+3370,Hockey,5,983,tail,True
+3371,Peter Doherty,13,3537,tail,True
+3373,Plain White T's,34,13873,head,True
+3375,Ryan Cabrera,10,6595,tail,True
+3376,Jota Quest,10,2018,tail,True
+3377,Banda Eva,5,857,tail,True
+3378,Jorge & Mateus,18,8310,tail,True
+3382,Os Paralamas do Sucesso,10,1655,tail,True
+3384,Chimarruts,8,2523,tail,True
+3386,Seu Jorge,5,622,tail,True
+3387,Tomate,5,1248,tail,False
+3391,Zeca Baleiro,10,3301,tail,True
+3392,Exaltasamba,9,1932,tail,True
+3393,Sandy Leah,19,21116,tail,True
+3397,Heidi Montag,28,19774,head,True
+3398,+44,18,6127,tail,True
+3399,Plastiscines,7,5254,tail,True
+3400,Jet,25,8289,tail,True
+3404,Sky Ferreira,27,12425,tail,True
+3405,Antimatter,10,4287,tail,True
+3411,M83,49,21065,head,True
+3413,Underworld,12,8564,tail,True
+3416,Sentenced,8,4077,tail,True
+3417,Ulver,27,10861,tail,True
+3425,After Forever,8,5676,tail,True
+3427,Goo Goo Dolls,26,11703,tail,True
+3428,A Static Lullaby,8,2894,tail,True
+3430,The Cramps,11,6920,tail,True
+3431,Alien Sex Fiend,10,6612,tail,True
+3432,Christian Death,9,6521,tail,True
+3436,The Damned,8,2656,tail,True
+3438,Fields of the Nephilim,7,2627,tail,True
+3440,Ween,7,2586,tail,True
+3441,Peter Murphy,5,1633,tail,True
+3442,Crass,6,5065,tail,True
+3443,Butthole Surfers,6,2002,tail,True
+3444,Dead Kennedys,21,8427,tail,True
+3445,Danzig,9,3535,tail,True
+3451,Love and Rockets,6,1194,tail,True
+3455,Nekromantix,6,4442,tail,True
+3456,The Adicts,10,5855,tail,True
+3458,The Byrds,14,2792,tail,True
+3459,Five for Fighting,5,1259,tail,True
+3460,Sheryl Crow,18,8976,tail,True
+3461,Phantom Planet,10,2735,tail,True
+3462,[unknown],22,2308,tail,True
+3464,Counting Crows,10,3144,tail,True
+3466,Sarah McLachlan,25,10032,tail,True
+3467,Caesars,5,1114,tail,True
+3468,The Magic Numbers,8,2241,tail,True
+3469,Supergrass,15,3238,tail,True
+3470,Rainbow,35,11216,head,True
+3471,Quiet Riot,9,1740,tail,True
+3472,Litfiba,6,2362,tail,True
+3473,David Lee Roth,5,422,tail,True
+3474,Danger Danger,7,1620,tail,True
+3475,Wolfmother,30,11249,head,True
+3476,Saxon,14,3403,tail,True
+3481,Yes,22,10098,tail,True
+3482,America,8,467,tail,True
+3488,Corinne Bailey Rae,24,15351,tail,True
+3489,Michelle Branch,21,28064,tail,True
+3490,Utada,8,4736,tail,True
+3491,Agnes,15,6029,tail,True
+3497,Jordan Pruitt,5,3477,tail,True
+3498,Paula DeAnda,7,1875,tail,True
+3500,Edyta Górniak,8,5749,tail,True
+3501,Mylène Farmer,23,66688,tail,True
+3502,Róisín Murphy,29,27153,head,True
+3503,Tarkan,8,5949,tail,True
+3505,John Zorn,6,2969,tail,True
+3509,Bathory,10,5963,tail,True
+3520,Biosphere,5,1498,tail,True
+3528,Bohren & der Club of Gore,6,3428,tail,True
+3551,Unter Null,9,3829,tail,True
+3557,Aqua,10,3201,tail,True
+3558,Jack Off Jill,6,7811,tail,True
+3562,Lords of Acid,5,5339,tail,True
+3563,Saliva,10,5378,tail,True
+3568,Brian Littrell,6,9845,tail,True
+3570,Danny,12,7543,tail,True
+3575,Blake Lewis,11,14320,tail,True
+3576,New Kids on the Block,12,4678,tail,True
+3583,Luke Bryan,7,4291,tail,True
+3584,Jason Aldean,8,4504,tail,True
+3588,Kenny Chesney,8,10765,tail,True
+3603,Sara Evans,6,3332,tail,True
+3616,Brand New,30,37663,head,True
+3617,Ray LaMontagne,11,7488,tail,True
+3619,Josh Ritter,6,2479,tail,True
+3621,Coheed and Cambria,16,11389,tail,True
+3624,Acid Drinkers,5,2496,tail,True
+3627,Lao Che,7,3703,tail,True
+3637,Ektomorf,6,3509,tail,True
+3646,Dezerter,5,3914,tail,True
+3660,Finntroll,5,1474,tail,True
+3666,The Hold Steady,5,2171,tail,True
+3670,Matisyahu,14,3689,tail,True
+3672,Scarlett Johansson,6,1630,tail,True
+3673,Girl Talk,11,2961,tail,True
+3674,Alizée,14,11156,tail,True
+3675,Huey Lewis & The News,5,1108,tail,True
+3676,Richard Ashcroft,17,4257,tail,True
+3681,Angus & Julia Stone,7,3440,tail,True
+3685,Why?,12,11342,tail,True
+3686,Caribou,11,4173,tail,True
+3689,Les Savy Fav,5,1269,tail,True
+3690,Owen Pallett,5,1693,tail,True
+3691,Panda Bear,12,9660,tail,True
+3693,Grizzly Bear,29,21504,head,True
+3694,Liars,9,3366,tail,True
+3700,Atlas Sound,13,14521,tail,True
+3703,Tim Hecker,13,3952,tail,True
+3705,Portugal. The Man,7,4444,tail,True
+3706,Broken Bells,5,2079,tail,True
+3707,Ratatat,19,10462,tail,True
+3712,The Lonely Island,16,5140,tail,True
+3714,Cursive,9,4539,tail,True
+3716,Wale,5,2899,tail,True
+3717,Chimaira,9,3978,tail,True
+3719,Soulfly,12,5176,tail,True
+3721,Norma Jean,7,2891,tail,True
+3722,Aborted,6,2343,tail,True
+3729,Madball,9,9404,tail,True
+3730,Friendly Fires,13,4722,tail,True
+3732,311,10,7059,tail,True
+3735,Spinnerette,6,2653,tail,True
+3737,Against Me!,12,7095,tail,True
+3738,Pnau,7,1980,tail,True
+3739,Hole,32,20257,head,True
+3741,Cazuza,21,4676,tail,True
+3743,Natiruts,9,3162,tail,True
+3744,Bikini Kill,13,3146,tail,True
+3745,Chico Science & Nação Zumbi,6,3187,tail,True
+3746,Ponto de Equilíbrio,6,1719,tail,True
+3747,Vanguart,15,6727,tail,True
+3748,Hanson,11,16729,tail,True
+3749,Gavin DeGraw,12,6945,tail,True
+3750,Amos Lee,6,782,tail,True
+3753,Augustana,14,8734,tail,True
+3754,Third Eye Blind,15,12037,tail,True
+3756,Mat Kearney,7,2107,tail,True
+3758,Default,6,1378,tail,True
+3763,The Corrs,23,13340,tail,True
+3767,The Horrors,24,9069,tail,True
+3768,Soft Cell,23,21369,tail,True
+3769,Shiny Toy Guns,19,11024,tail,True
+3771,Museum,5,1681,tail,True
+3774,Uriah Heep,16,14704,tail,True
+3776,Funkadelic,6,2376,tail,True
+3777,Steely Dan,13,4756,tail,True
+3778,Sly & The Family Stone,8,1729,tail,True
+3779,Fates Warning,6,1181,tail,True
+3780,D.R.I.,9,5421,tail,True
+3781,Violent Femmes,6,1973,tail,True
+3788,Cynic,13,9117,tail,True
+3792,Bad Brains,10,3761,tail,True
+3795,Marilyn Monroe,8,1835,tail,True
+3797,Blood Red Shoes,12,5374,tail,True
+3798,Septic Flesh,5,838,tail,True
+3805,Neurosis,9,2313,tail,True
+3806,Rotting Christ,8,1913,tail,True
+3809,Electric Wizard,7,1585,tail,True
+3812,The Qemists,5,1286,tail,True
+3817,Maybeshewill,8,3107,tail,True
+3827,Dolphin,10,6125,tail,True
+3832,Morten Harket,9,12076,tail,True
+3833,Lumen,7,1908,tail,True
+3859,Daughtry,42,41447,head,True
+3861,Koop,6,1368,tail,True
+3863,Blank & Jones,9,4209,tail,True
+3868,Kaskade,5,1141,tail,True
+3870,Alina Orlova,6,4011,tail,True
+3871,Daniel Powter,6,3099,tail,True
+3873,Chris Daughtry,6,1340,tail,True
+3877,Pink Martini,8,1593,tail,True
+3884,Slowdive,17,7314,tail,True
+3886,Angelo Badalamenti,9,7474,tail,True
+3888,Robert Plant,8,3308,tail,True
+3889,Chris Isaak,6,1130,tail,True
+3890,Mazzy Star,8,1565,tail,True
+3892,Soda Stereo,16,8961,tail,True
+3893,This Mortal Coil,6,7326,tail,True
+3896,Peggy Lee,5,2171,tail,True
+3901,The Gathering,13,4518,tail,True
+3902,CocoRosie,28,14810,head,True
+3905,Jorge Drexler,9,2691,tail,True
+3919,Apulanta,5,2844,tail,True
+3920,Bryan Ferry,13,7431,tail,True
+3921,Asia,8,9563,tail,True
+3927,Kutless,8,3191,tail,True
+3928,12 Stones,15,6034,tail,True
+3934,10cc,5,2369,tail,True
+3940,Riverside,20,16561,tail,True
+3945,Feeder,13,9751,tail,True
+3946,Puddle of Mudd,13,7175,tail,True
+3948,Alcazar,6,6049,tail,True
+3966,Modern Talking,13,4865,tail,True
+3985,Gigi D'Agostino,5,1040,tail,True
+3988,Mesh,18,9928,tail,True
+3991,Bertine Zetlitz,6,2247,tail,True
+3992,Everything but the Girl,14,2743,tail,True
+3993,Shocking Blue,6,453,tail,True
+3995,Blockhead,7,1696,tail,True
+3997,Veil of Maya,5,9290,tail,True
+4002,Within The Ruins,5,866,tail,True
+4003,After the Burial,6,8864,tail,True
+4004,The Faceless,5,2113,tail,True
+4022,Midnight Juggernauts,8,5089,tail,True
+4024,Benny Benassi,15,4733,tail,True
+4025,The Presets,21,9611,tail,True
+4027,Mr. Oizo,6,4184,tail,True
+4028,Chromeo,8,1584,tail,True
+4029,Boys Noize,8,4708,tail,True
+4031,Freddie Mercury,6,1188,tail,True
+4036,Ferry Corsten,9,3791,tail,True
+4037,Gipsy Kings,7,3222,tail,True
+4038,Grafton Primary,6,1251,tail,True
+4051,Morphine,10,5498,tail,True
+4058,The Brian Jonestown Massacre,11,7377,tail,True
+4064,Spiritualized,10,1957,tail,True
+4069,The Dandy Warhols,17,6699,tail,True
+4074,Silversun Pickups,13,7331,tail,True
+4079,Wilco,29,18905,head,True
+4087,Raul Seixas,21,12255,tail,True
+4089,Cold War Kids,9,1449,tail,True
+4092,Dinosaur Jr.,14,7383,tail,True
+4096,The Chariot,6,3223,tail,True
+4100,He Is Legend,5,2729,tail,True
+4103,From Autumn to Ashes,9,5136,tail,True
+4104,Scary Kids Scaring Kids,10,3559,tail,True
+4108,Emancipator,7,4793,tail,True
+4113,Lamb,11,1515,tail,True
+4115,The Vines,20,10419,tail,True
+4118,The Postal Service,27,13112,tail,True
+4123,Mike Oldfield,11,7592,tail,True
+4124,UFO,10,2828,tail,True
+4125,Status Quo,5,5094,tail,True
+4126,Vangelis,16,35182,tail,True
+4129,The Jam,12,7215,tail,True
+4130,Foreigner,14,5428,tail,True
+4135,Xandria,9,2642,tail,True
+4136,Leaves' Eyes,10,4649,tail,True
+4137,Sirenia,9,2171,tail,True
+4143,Agua de Annique,7,2129,tail,True
+4153,Télépopmusik,9,2867,tail,True
+4155,Die Ärzte,18,9084,tail,True
+4156,Die Toten Hosen,11,8387,tail,True
+4162,Lacrimas Profundere,7,1819,tail,True
+4164,Gramofocas,6,1516,tail,True
+4165,Poison,18,11031,tail,True
+4166,Confide,9,10011,tail,True
+4168,"Woe, Is Me",5,6097,tail,True
+4170,Demon Hunter,13,7464,tail,True
+4171,Disarmonia Mundi,5,3139,tail,True
+4173,Stigmata,6,1643,tail,True
+4177,Switchfoot,28,21052,head,True
+4178,Nightrage,5,2393,tail,True
+4179,Staind,19,7506,tail,True
+4180,Europe,20,6709,tail,True
+4181,Nero,6,739,tail,True
+4184,The Bouncing Souls,6,2360,tail,True
+4189,Alkaline Trio,19,11511,tail,True
+4191,Hot Water Music,6,2067,tail,True
+4194,Descendents,8,2633,tail,True
+4196,The Gaslight Anthem,12,6846,tail,True
+4198,The Suicide Machines,5,1522,tail,True
+4199,The Thermals,6,2104,tail,True
+4201,The Get Up Kids,7,2419,tail,True
+4208,Streetlight Manifesto,6,7663,tail,True
+4211,H2O,5,3557,tail,True
+4216,Reel Big Fish,5,1386,tail,True
+4218,Pennywise,16,6160,tail,True
+4223,The Spill Canvas,10,5368,tail,True
+4225,Мои Ракеты Вверх,6,12043,tail,True
+4226,7раса,6,10004,tail,True
+4228,Everything Is Made in China,5,3922,tail,True
+4229,Адаптация Пчёл,6,2588,tail,True
+4230,The American Dollar,13,25621,tail,True
+4232,Caspian,6,1425,tail,True
+4242,QUEST PISTOLs,5,1080,tail,True
+4245,Tesla Boy,6,1178,tail,True
+4251,The Yardbirds,21,5986,tail,True
+4252,Paloma Faith,6,3136,tail,True
+4254,Marion Raven,7,2769,tail,True
+4255,Kill Hannah,11,9801,tail,True
+4257,Ronan Keating,6,2183,tail,True
+4260,Julieta Venegas,18,6855,tail,True
+4262,Taking Back Sunday,36,28262,head,True
+4264,Every Avenue,5,1048,tail,True
+4271,Burzum,19,8687,tail,True
+4272,Darkthrone,5,1406,tail,True
+4273,Celtic Frost,8,1125,tail,True
+4286,Doro,6,791,tail,True
+4290,Dissection,5,494,tail,True
+4291,Drake Bell,12,3099,tail,True
+4292,Hayden Panettiere,5,626,tail,True
+4294,Corbin Bleu,5,702,tail,True
+4297,Линда,5,1697,tail,True
+4308,Client,17,12828,tail,True
+4309,Akcent,8,1033,tail,True
+4311,Ian Brown,6,5001,tail,True
+4316,Tricky,23,7461,tail,True
+4317,Melotron,7,1721,tail,True
+4341,At Vance,5,1019,tail,True
+4342,Dream Evil,6,1086,tail,True
+4344,Damian Marley,9,2806,tail,True
+4346,Walls of Jericho,10,7002,tail,True
+4349,Barão Vermelho,8,2711,tail,True
+4350,Rouge,16,6920,tail,True
+4354,Toadies,5,546,tail,True
+4356,Clutch,7,1838,tail,True
+4359,Mudhoney,10,2998,tail,True
+4361,Jars of Clay,6,1096,tail,True
+4365,The Tea Party,5,5967,tail,True
+4366,Ours,5,2222,tail,True
+4369,Tom Petty and the Heartbreakers,15,5187,tail,True
+4375,MxPx,11,4504,tail,True
+4382,Sohodolls,6,1105,tail,True
+4384,The Raveonettes,15,9757,tail,True
+4385,Hellogoodbye,20,9669,tail,True
+4387,"Does It Offend You, Yeah?",7,2134,tail,True
+4394,Foxboro Hot Tubs,5,670,tail,True
+4428,Smile Empty Soul,5,4507,tail,True
+4432,Our Lady Peace,11,6428,tail,True
+4434,The Ataris,7,3719,tail,True
+4435,The Bravery,22,10007,tail,True
+4436,Marianas Trench,6,4447,tail,True
+4437,梶浦由記,6,5087,tail,True
+4439,Dishwalla,7,2780,tail,True
+4442,Ryan Adams & The Cardinals,8,4057,tail,True
+4444,Doves,12,5414,tail,True
+4447,Beth Orton,5,974,tail,True
+4448,Tame Impala,6,1441,tail,True
+4452,Black Drawing Chalks,6,2794,tail,True
+4457,Turbonegro,5,2048,tail,True
+4458,Ace Frehley,6,972,tail,True
+4459,Forgotten Boys,8,5045,tail,True
+4460,Cinderella,15,4726,tail,True
+4463,Fernando & Sorocaba,9,2000,tail,False
+4466,Armandinho,8,1940,tail,True
+4471,João Bosco & Vinícius,5,1113,tail,False
+4474,Luan Santana,17,7214,tail,True
+4487,Jon McLaughlin,6,9420,tail,True
+4488,Marié Digby,6,4863,tail,True
+4489,Jennifer Love Hewitt,6,3146,tail,True
+4491,Joe McElderry,6,4021,tail,True
+4495,Dusty Springfield,8,6187,tail,True
+4502,Слот,8,4729,tail,True
+4504,Terror,10,6420,tail,True
+4520,Hank Williams,7,1897,tail,True
+4532,Bonnie 'Prince' Billy,8,4021,tail,True
+4538,The Band,7,933,tail,True
+4541,Lou Reed,14,3762,tail,True
+4543,Willie Nelson,8,4234,tail,True
+4550,In Fear and Faith,8,9835,tail,True
+4558,Wonder Girls,9,3389,tail,True
+4559,Busted,6,2181,tail,True
+4560,Brooke Hogan,10,3168,tail,True
+4561,Edward Maya,12,1838,tail,True
+4562,Jason Derülo,32,9357,head,True
+4564,Tinie Tempah,6,3110,tail,True
+4565,Doda,10,7554,tail,True
+4566,Amerie,21,33603,tail,True
+4572,Chylińska,6,3729,tail,True
+4575,Rebecca Black,7,815,tail,True
+4576,www.djrobsonmichel.com,5,370,tail,True
+4585,Method Man,6,2654,tail,True
+4586,RZA,8,3958,tail,True
+4597,dead prez,5,2861,tail,False
+4600,Astrix,6,1381,tail,True
+4605,Moonsorrow,5,1177,tail,True
+4608,Equilibrium,5,3289,tail,True
+4609,Brainstorm,5,2155,tail,True
+4611,Alcest,8,1528,tail,True
+4613,Orphaned Land,5,2141,tail,True
+4616,Jamie Cullum,22,10506,tail,True
+4617,Bow Wow,6,3138,tail,True
+4618,Ingrid Michaelson,12,3745,tail,True
+4620,Cat Stevens,17,5342,tail,True
+4649,Franco Battiato,8,1881,tail,True
+4669,Necrophagist,5,3014,tail,True
+4675,Camel,23,25037,tail,True
+4680,Blaze,6,3345,tail,True
+4691,My Dying Bride,5,3637,tail,True
+4696,The-Dream,9,7209,tail,True
+4704,Ladyhawke,32,8736,head,True
+4705,All Saints,6,1431,tail,True
+4706,Sam Sparro,10,4739,tail,True
+4707,Gabriella Cilmi,13,7939,tail,True
+4708,Tiago Iorc,6,1934,tail,True
+4709,Roberta Sá,11,3395,tail,True
+4710,John Legend,8,3921,tail,True
+4713,Teairra Mari,5,3787,tail,True
+4716,Vanessa da Mata,19,13363,tail,True
+4725,Tiga,6,1160,tail,True
+4728,Vitalic,7,1801,tail,True
+4731,Brazilian Girls,6,1326,tail,True
+4732,Fischerspooner,15,5097,tail,True
+4734,Trentemøller,11,2205,tail,True
+4742,Ash,5,3504,tail,True
+4747,Fireflight,9,2144,tail,True
+4750,Jeremy Camp,7,5767,tail,True
+4756,Quietdrive,5,1813,tail,True
+4762,Acceptance,6,2281,tail,True
+4767,Aura Dione,7,1589,tail,True
+4773,Krystal Meyers,9,5247,tail,True
+4774,Adept,7,4698,tail,True
+4779,Aesop Rock,8,7571,tail,True
+4784,"Emerson, Lake & Palmer",12,3842,tail,True
+4787,Atheist,5,2320,tail,True
+4790,Gentle Giant,11,4462,tail,True
+4793,Cachorro Grande,15,7175,tail,True
+4800,Planet Hemp,7,4016,tail,True
+4802,Ida Maria,9,3706,tail,True
+4807,New York Dolls,5,1460,tail,True
+4810,The Pipettes,10,6282,tail,True
+4811,Cody Simpson,9,4379,tail,True
+4814,Natalia Kills,38,20337,head,True
+4817,La Oreja de Van Gogh,14,5204,tail,True
+4818,Nando Reis,12,5030,tail,True
+4819,Fernanda Takai,5,1590,tail,True
+4820,Lagwagon,6,4518,tail,True
+4821,NOFX,32,33559,head,True
+4822,No Use for a Name,9,7973,tail,True
+4823,Cueio Limão,11,8135,tail,True
+4828,Forfun,24,20292,tail,True
+4831,Display,7,5304,tail,True
+4833,Less Than Jake,7,3249,tail,True
+4834,Carbona,10,5130,tail,True
+4837,The Starting Line,8,4131,tail,True
+4850,Strike,16,6345,tail,True
+4852,Red Snapper,6,1718,tail,True
+4865,ISAN,9,3127,tail,True
+4871,Project Pitchfork,9,1394,tail,True
+4872,Deine Lakaien,6,2236,tail,True
+4875,Leæther Strip,5,1704,tail,True
+4876,In Strict Confidence,7,1397,tail,True
+4879,Selena Gomez & Demi Lovato,9,592,tail,True
+4880,Sandra,8,16516,tail,True
+4883,TLC,7,10228,tail,True
+4887,Гражданская Оборона,6,3950,tail,True
+4896,П.Т.В.П.,6,2534,tail,True
+4912,E Nomine,6,3859,tail,True
+4917,Klaus Badelt,7,10627,tail,True
+4918,Nicholas Hooper,9,7611,tail,True
+4920,James Horner,16,9799,tail,True
+4922,久石譲,9,3800,tail,True
+4923,Alexandre Desplat,18,13806,tail,True
+4927,Patrick Doyle,5,929,tail,True
+4928,Eric Serra,7,1459,tail,True
+4936,Dr. Acula,5,3741,tail,True
+4941,Across the Universe,9,2842,tail,False
+4948,Misery Signals,7,2589,tail,True
+4970,Drudkh,5,1255,tail,True
+4971,Kalmah,7,7514,tail,True
+4980,Olivia,8,4061,tail,True
+4988,Chris Spheeris,5,3106,tail,True
+4994,Team Sleep,6,6829,tail,True
+4995,Destroy Rebuild Until God Shows,5,1156,tail,True
+5000,Take That,21,15570,tail,True
+5001,One Night Only,8,1800,tail,True
+5020,Queen + Paul Rodgers,7,2321,tail,True
+5027,Le Tigre,14,4323,tail,True
+5030,The Pigeon Detectives,11,2676,tail,True
+5032,Britt Nicole,8,10354,tail,True
+5036,Raven-Symoné,7,5216,tail,True
+5041,Eldo,7,4113,tail,True
+5045,Basement Jaxx,8,5854,tail,True
+5048,The Streets,8,17228,tail,True
+5063,Noisia,5,1116,tail,True
+5065,Aiden,7,1320,tail,True
+5067,I Set My Friends On Fire,7,6987,tail,True
+5071,Chase & Status,11,4473,tail,True
+5072,Paul Oakenfold,10,2691,tail,True
+5073,Juno Reactor,10,1918,tail,True
+5074,Rob Dougan,7,4265,tail,True
+5076,X JAPAN,5,3616,tail,True
+5079,Emilie Autumn,30,19846,head,True
+5082,アンティック-珈琲店-,5,2828,tail,True
+5089,大塚愛,8,8650,tail,True
+5099,Train,14,4829,tail,True
+5100,Shadows Fall,7,3681,tail,True
+5105,Cavalera Conspiracy,5,922,tail,True
+5119,Marcelo D2,9,2301,tail,True
+5126,Chelsea Grin,6,5445,tail,True
+5140,Panda,7,3954,tail,True
+5147,Sleigh Bells,8,2519,tail,True
+5149,Uffie,24,13501,tail,True
+5150,Janelle Monáe,22,12933,tail,True
+5153,Auf der Maur,6,5043,tail,True
+5154,Miami Horror,6,1486,tail,True
+5157,Accept,15,4210,tail,True
+5165,White Lion,5,816,tail,True
+5168,Bob Seger,7,3809,tail,True
+5172,Grand Funk Railroad,10,4557,tail,True
+5175,Roger Waters,11,14856,tail,True
+5180,Lovage,5,1630,tail,True
+5184,8mm,5,1573,tail,True
+5192,Bent,5,460,tail,True
+5202,InMe,5,3563,tail,True
+5205,Refused,5,647,tail,True
+5215,Skunk Anansie,6,1953,tail,True
+5216,Alien Ant Farm,8,2864,tail,True
+5217,Fuel,7,9812,tail,True
+5226,O Rappa,7,1576,tail,True
+5235,Andrés Calamaro,8,6788,tail,True
+5236,Enrique Bunbury,8,8699,tail,True
+5237,Gustavo Cerati,14,10822,tail,True
+5238,Fito Páez,5,1449,tail,True
+5239,Calle 13,6,1538,tail,True
+5249,Alejandro Sanz,17,6730,tail,True
+5254,Falco,8,18699,tail,True
+5256,Jan Hammer,6,2181,tail,True
+5257,Nancy Sinatra,5,1524,tail,True
+5258,Adam Ant,6,2197,tail,True
+5260,Adam and the Ants,10,3336,tail,True
+5266,Kellie Pickler,7,4883,tail,True
+5267,Miranda Lambert,14,42363,tail,True
+5297,Van der Graaf Generator,6,5357,tail,True
+5299,Swans,10,3559,tail,True
+5306,Dropkick Murphys,12,6883,tail,True
+5308,Dot Dot Curve :),5,3291,tail,False
+5310,Zebrahead,11,6067,tail,True
+5313,Amber Pacific,7,4234,tail,True
+5346,Ott,5,862,tail,True
+5348,Younger Brother,5,394,tail,True
+5353,Buju Banton,6,518,tail,True
+5358,Vibrasphere,6,4997,tail,True
+5360,Bluetech,6,2248,tail,True
+5365,Diamond Head,6,1788,tail,True
+5375,Eddie Cochran,6,9326,tail,True
+5412,The Go! Team,6,956,tail,True
+5414,Camera Obscura,18,8554,tail,True
+5416,Os Mutantes,21,10997,tail,True
+5420,Nico,5,1228,tail,True
+5421,Rasputina,6,1524,tail,True
+5423,...And You Will Know Us by the Trail of Dead,14,4110,tail,True
+5425,Diante do Trono,7,5955,tail,True
+5427,André Valadão,5,4232,tail,True
+5428,Jack Peñate,5,2095,tail,True
+5429,Good Shoes,8,3225,tail,True
+5434,The Zombies,7,2141,tail,True
+5437,The Hush Sound,15,7608,tail,True
+5439,Hot Hot Heat,15,4414,tail,True
+5441,Lenine,14,6630,tail,True
+5444,Andy McKee,7,2752,tail,True
+5446,Ben Harper,11,2733,tail,True
+5452,Chicago,9,4543,tail,True
+5453,Pouca Vogal,6,3545,tail,True
+5459,Delain,12,8180,tail,True
+5472,Ryan Star,5,1120,tail,True
+5475,Blue Foundation,7,1552,tail,True
+5480,Frou Frou,7,957,tail,True
+5485,Dżem,11,3330,tail,True
+5487,Kasia Kowalska,7,5108,tail,True
+5488,Natural Dread Killaz,5,1370,tail,True
+5503,The Orb,6,710,tail,True
+5533,Nadine Coyle,8,1814,tail,False
+5534,Alexis Jordan,8,1375,tail,True
+5537,Aggro Santos,5,1649,tail,True
+5547,Passion Pit,20,10282,tail,True
+5549,Yo La Tengo,14,9730,tail,True
+5565,Clazziquai Project,5,1119,tail,True
+5594,Maria Cecília & Rodolfo,6,1621,tail,True
+5600,Agnostic Front,9,3128,tail,True
+5605,植松伸夫,20,11286,tail,True
+5615,Elisa,5,4958,tail,True
+5630,Dead Fish,13,17733,tail,True
+5631,A Wilhelm Scream,5,3099,tail,True
+5636,Propagandhi,6,6526,tail,True
+5638,Strike Anywhere,6,5775,tail,True
+5639,Mukeka Di Rato,5,4426,tail,True
+5649,Zac Brown Band,5,2884,tail,True
+5660,Robert Johnson,12,6062,tail,True
+5666,Volbeat,10,4863,tail,True
+5667,The Agonist,8,3184,tail,True
+5670,Zombie Girl,7,2747,tail,True
+5678,Mr Hudson,6,6569,tail,True
+5688,Heaven & Hell,6,3523,tail,True
+5689,Candlemass,7,1698,tail,True
+5745,Elis Regina,12,5571,tail,True
+5746,Robert Pattinson,17,10310,tail,True
+5749,Restart,18,21986,tail,True
+5754,Eliza Doolittle,6,4203,tail,True
+5767,LeAnn Rimes,15,6798,tail,True
+5768,Anouk,6,2065,tail,True
+5772,Mamonas Assassinas,11,1690,tail,True
+5785,Buzzcocks,11,3999,tail,True
+5787,Diana Krall,11,3857,tail,True
+5789,Lauryn Hill,8,4923,tail,True
+5790,Aimee Mann,12,3786,tail,True
+5806,John Murphy,7,2542,tail,True
+5833,David Sylvian,7,4338,tail,True
+5836,Mark Ronson & The Business Intl,6,2258,tail,True
+5841,Winger,5,1099,tail,True
+5844,Jefferson Airplane,19,12030,tail,True
+5845,Vavamuffin,6,2454,tail,True
+5847,EastWest Rockers,7,3414,tail,True
+5879,Ariel Pink's Haunted Graffiti,6,3726,tail,True
+5883,Oh No,5,2348,tail,True
+5890,Elbow,15,6537,tail,True
+5891,I Monster,5,2070,tail,True
+5913,The Chameleons,8,3111,tail,True
+5914,My Brightest Diamond,6,1053,tail,True
+5925,Peter Bjorn and John,16,4133,tail,True
+5926,The Sounds,22,8324,tail,True
+5927,Bang Gang,11,2010,tail,True
+5929,The Organ,5,3595,tail,True
+5934,Bonde do Rolê,9,6467,tail,True
+5947,LMFAO,12,3619,tail,True
+5948,Fefe Dobson,7,3873,tail,True
+5950,Cash Cash,15,5122,tail,True
+5953,Kid Sister,5,1173,tail,True
+5958,The Summer Set,10,1635,tail,True
+5966,Circa Survive,17,10231,tail,True
+5969,"Drop Dead, Gorgeous",10,8969,tail,True
+5972,Mute Math,10,2819,tail,True
+5978,Neon Trees,7,746,tail,True
+5984,Semi Precious Weapons,7,1723,tail,True
+5988,Nelly,21,16116,tail,True
+6006,Trading Yesterday,7,5848,tail,True
+6008,Innerpartysystem,7,2872,tail,True
+6016,Greeley Estates,5,5790,tail,True
+6032,HEALTH,7,3344,tail,True
+6046,Nujabes,9,8317,tail,True
+6048,Godspeed You! Black Emperor,14,6290,tail,True
+6052,E.S. Posthumus,5,4465,tail,True
+6054,Goose,6,1113,tail,True
+6064,Nena,5,1624,tail,True
+6075,坂本龍一,5,1206,tail,True
+6120,CPM 22,23,12661,tail,True
+6121,Scracho,13,4084,tail,True
+6123,Roupa Nova,5,1912,tail,True
+6130,Filter,5,1762,tail,True
+6132,Beeshop,13,6052,tail,True
+6137,Antônio Carlos Jobim,12,6712,tail,True
+6146,Sebadoh,7,3095,tail,True
+6150,Tangerine Dream,10,45769,tail,True
+6151,Stars of the Lid,18,6925,tail,True
+6159,Eluvium,14,5687,tail,True
+6160,Loscil,5,1542,tail,True
+6161,Arvo Pärt,5,2128,tail,True
+6165,Ten Years After,7,1409,tail,True
+6182,Grandaddy,9,4264,tail,True
+6187,Jonny Greenwood,9,3112,tail,True
+6189,Bibio,7,3255,tail,True
+6191,Armor for Sleep,7,5402,tail,True
+6196,Box Car Racer,10,4446,tail,True
+6202,The Veils,5,4369,tail,True
+6203,Delays,5,4478,tail,True
+6205,The Clientele,6,5213,tail,True
+6210,Girls,5,2526,tail,True
+6217,The Radio Dept.,21,20366,tail,True
+6222,Guillemots,7,2131,tail,True
+6223,The Automatic,5,906,tail,True
+6226,N*E*R*D,9,3444,tail,True
+6229,Frightened Rabbit,11,2981,tail,True
+6231,The Perishers,6,5310,tail,True
+6232,BWO,7,3513,tail,True
+6235,Negative,5,1832,tail,True
+6245,Мумий Тролль,8,4893,tail,True
+6247,Sugarcult,8,2903,tail,True
+6249,Theory of a Deadman,10,3221,tail,True
+6250,Globus,5,2275,tail,True
+6252,Tyler Bates,5,2873,tail,True
+6257,Rob Zombie,13,15613,tail,True
+6258,Summoning,6,1842,tail,True
+6267,ДДТ,5,702,tail,True
+6282,Mägo de Oz,11,4979,tail,True
+6288,Tech N9ne,5,4305,tail,True
+6289,Kataklysm,7,4511,tail,True
+6292,Jon Bon Jovi,8,1362,tail,True
+6293,Straylight Run,5,5052,tail,True
+6294,Saves the Day,8,3218,tail,True
+6295,Pinback,6,2409,tail,True
+6297,Sondre Lerche,8,4957,tail,True
+6298,Something Corporate,15,9935,tail,True
+6308,Nick Lachey,9,3405,tail,True
+6346,Soulja Boy,6,1088,tail,True
+6362,Slade,5,916,tail,True
+6363,The Blues Brothers,5,519,tail,True
+6374,Peaches,14,18531,tail,True
+6376,Missy Elliott,10,15473,tail,True
+6389,Robin Thicke,9,6298,tail,True
+6390,Bear McCreary,5,8395,tail,True
+6391,The Living End,5,8019,tail,True
+6397,Harry Gregson-Williams,10,5349,tail,True
+6409,Black Moth Super Rainbow,9,3597,tail,True
+6410,Grouper,5,31073,tail,True
+6414,Asobi Seksu,6,1375,tail,True
+6429,Kate Ryan,7,4237,tail,True
+6439,Animal ДжаZ,7,6749,tail,True
+6448,Blood on the Dance Floor,8,6765,tail,True
+6452,Everclear,7,6244,tail,True
+6453,The Academy Is...,26,14303,tail,True
+6454,Anna Nalick,6,907,tail,True
+6461,I Am Ghost,5,860,tail,True
+6463,Manchester Orchestra,7,7564,tail,True
+6472,Djavan,5,1359,tail,True
+6505,Estopa,6,5120,tail,True
+6527,Miranda!,6,1289,tail,True
+6529,Natalia Lafourcade,6,2664,tail,True
+6534,2ois,5,2161,tail,True
+6539,Juliette and The Licks,8,1788,tail,True
+6540,Hans Zimmer & James Newton Howard,6,1509,tail,True
+6541,Jeff Beck,7,1838,tail,True
+6542,Angelspit,6,4471,tail,True
+6543,Millionaires,7,6372,tail,True
+6548,I:Scintilla,5,1490,tail,True
+6562,Electrik Red,8,3146,tail,True
+6567,Diddy,5,666,tail,True
+6570,Oceansize,5,1983,tail,True
+6581,RJD2,7,3765,tail,True
+6582,Ulrich Schnauss,12,2072,tail,True
+6585,Gus Gus,6,2692,tail,True
+6594,The Secret Handshake,5,2925,tail,True
+6600,The Rocket Summer,13,12353,tail,True
+6602,Mae,10,6210,tail,True
+6608,My Favorite Highway,5,1344,tail,True
+6614,There For Tomorrow,7,2593,tail,True
+6618,D12,12,11310,tail,True
+6619,Obie Trice,7,3430,tail,True
+6621,Xzibit,8,3516,tail,True
+6626,DMX,11,12714,tail,True
+6631,Fabolous,6,4631,tail,True
+6678,The John Butler Trio,11,5340,tail,True
+6685,The Ditty Bops,5,1651,tail,True
+6687,The Unicorns,6,2457,tail,True
+6690,Livvi Franc,6,1897,tail,True
+6693,Kevin Rudolf,7,1719,tail,True
+6713,Aline Barros,5,814,tail,True
+6721,Daniela Mercury,7,1642,tail,True
+6722,Air Supply,6,990,tail,True
+6724,John Frusciante,19,16004,tail,True
+6726,"Albert Hammond, Jr.",10,2505,tail,True
+6728,James,7,7191,tail,True
+6730,Mark Lanegan,10,5945,tail,True
+6732,Big Country,5,2141,tail,True
+6733,Savoy,6,4729,tail,True
+6739,Magne F,5,3910,tail,True
+6742,Propaganda,6,4301,tail,True
+6748,Axel Rudi Pell,6,1909,tail,True
+6756,Amiina,17,3460,tail,True
+6759,This Will Destroy You,11,6212,tail,True
+6760,Conjure One,5,1038,tail,True
+6762,Helios,10,2763,tail,True
+6765,The Dear Hunter,5,4089,tail,True
+6769,Cartel,9,3870,tail,True
+6773,Say Anything,17,14194,tail,True
+6792,Hateen,5,1893,tail,True
+6824,Guided by Voices,13,4436,tail,True
+6830,Pelican,6,2709,tail,True
+6836,Ted Leo and The Pharmacists,7,12951,tail,True
+6847,White Rose Movement,6,1670,tail,True
+6878,Soman,5,961,tail,True
+6887,AZ,5,4681,tail,True
+6901,Big L,6,3670,tail,True
+6906,Owen,9,7245,tail,True
+6910,The Books,9,4517,tail,True
+6915,Hercules and Love Affair,5,1220,tail,True
+6920,Glasvegas,9,2239,tail,True
+6930,Jay-Jay Johanson,9,3534,tail,True
+6950,Jim Morrison,5,2466,tail,True
+6957,Steve Vai,5,1318,tail,True
+6958,Robert Cray,5,677,tail,True
+6959,Gary Moore,13,2715,tail,True
+6961,Grup Yorum,6,3715,tail,True
+7008,Пилот,5,3928,tail,True
+7038,Akurat,5,2239,tail,True
+7047,Pentagram,9,3698,tail,True
+7054,The Alan Parsons Project,12,9762,tail,True
+7056,B.B. King,18,5630,tail,True
+7071,The Teenagers,9,2287,tail,True
+7076,Gang of Four,6,2091,tail,True
+7078,Zeromancer,6,6615,tail,True
+7079,Moderat,8,7491,tail,True
+7081,Tomahawk,6,3399,tail,True
+7096,Michael Nyman,6,1512,tail,True
+7100,Haggard,8,1711,tail,True
+7119,Johannes Brahms,6,1822,tail,True
+7123,Chet Baker,8,1092,tail,True
+7137,Yael Naim,5,992,tail,True
+7147,My Morning Jacket,9,8053,tail,True
+7148,John Barry,6,2275,tail,True
+7152,Thomas Newman,7,8486,tail,True
+7157,Loreena McKennitt,12,8317,tail,True
+7160,下村陽子,6,2123,tail,True
+7170,浜渦正志,5,3490,tail,False
+7177,Cage the Elephant,9,2352,tail,True
+7183,Carolina Liar,6,1365,tail,True
+7187,Hard-Fi,12,2960,tail,True
+7190,The View,5,946,tail,True
+7191,Nemesea,5,1815,tail,True
+7194,Aqualung,12,2987,tail,True
+7259,Gil Scott-Heron,5,757,tail,True
+7260,Flogging Molly,11,7655,tail,True
+7261,Vega,5,1050,tail,True
+7265,Bill Hicks,6,1123,tail,True
+7323,Get Cape. Wear Cape. Fly,5,1445,tail,True
+7324,Empire of the Sun,33,7745,head,True
+7326,Plan B,5,1429,tail,True
+7328,Sugar Kane,5,5348,tail,True
+7329,Goldfinger,6,2808,tail,True
+7331,Suicidal Tendencies,6,3541,tail,True
+7340,Jay Sean,23,14846,tail,True
+7343,Fad Gadget,5,2101,tail,True
+7347,Blancmange,5,730,tail,True
+7348,Brigitte Bardot,5,1206,tail,True
+7352,Madeleine Peyroux,9,3179,tail,True
+7375,Shellac,5,1731,tail,True
+7382,Efterklang,6,1376,tail,True
+7389,U.D.R.,5,1560,tail,False
+7390,Vanilla Ninja,5,3231,tail,True
+7407,Meat Puppets,5,1463,tail,True
+7419,Corrosion of Conformity,5,3318,tail,True
+7426,Marek Grechuta,5,5784,tail,True
+7448,Ana Johnsson,5,1925,tail,True
+7449,Lillix,5,3562,tail,True
+7452,Danni Carlos,6,927,tail,True
+7470,LFO,5,2573,tail,True
+7493,Luke Vibert,6,1910,tail,True
+7505,Karen O and the Kids,6,1243,tail,True
+7525,Paul Weller,7,6037,tail,True
+7530,Café Tacuba,7,2895,tail,True
+7623,Jarabe de Palo,6,2251,tail,True
+7626,Mina,5,237,tail,True
+7639,Mudvayne,18,6048,tail,True
+7643,Clueso,6,2826,tail,True
+7650,Beatsteaks,8,10490,tail,True
+7660,I Blame Coco,6,5753,tail,True
+7663,The Futureheads,10,2429,tail,True
+7665,Toro y Moi,11,5812,tail,True
+7704,Disney's Friends For Change,5,335,tail,True
+7706,Gaiola Das Popozudas,5,1384,tail,True
+7723,Between the Trees,6,3427,tail,True
+7724,The Almost,6,2401,tail,True
+7742,Department of Eagles,5,1669,tail,True
+7743,Jamie T,9,3696,tail,True
+7756,Casting Crowns,6,2509,tail,True
+7759,Bushido,6,38392,tail,True
+7777,Scouting for Girls,8,2639,tail,True
+7781,Clare Maguire,10,5424,tail,True
+7810,Elsiane,6,2768,tail,True
+7831,Sleeping With Sirens,6,4603,tail,True
+7832,Abril,8,3333,tail,True
+7834,Esteban,8,2252,tail,True
+7835,Fake Number,9,3697,tail,True
+7838,Alejandro Fernández,6,916,tail,True
+7846,La Quinta Estación,9,2225,tail,True
+7864,Charice,6,1243,tail,True
+7868,Mike Posner,14,2206,tail,True
+7874,Xavier Naidoo,5,4095,tail,True
+7885,Zeigeist,5,1989,tail,True
+7927,Men at Work,5,2110,tail,True
+7935,The Monkees,5,5922,tail,True
+8002,Сергей Лазарев,6,1577,tail,True
+8027,Jónsi & Alex,10,8093,tail,True
+8042,Live,9,3345,tail,True
+8043,Idlewild,6,2321,tail,True
+8047,Plumb,9,9502,tail,True
+8054,The Dø,5,817,tail,True
+8067,Estelle,7,1469,tail,True
+8071,Ryan Leslie,7,10007,tail,True
+8081,Lloyd,6,2577,tail,True
+8111,The Allman Brothers Band,9,2851,tail,True
+8121,Toots and the Maytals,5,2639,tail,True
+8123,Albert King,6,1567,tail,True
+8126,Little Walter,8,2057,tail,True
+8136,Danger,5,1908,tail,True
+8155,Justin Nozuka,11,6932,tail,True
+8160,Slim Thug,5,1193,tail,True
+8161,T-Pain,7,420,tail,True
+8215,Datarock,5,846,tail,True
+8229,Astor Piazzolla,5,743,tail,True
+8230,Oi Va Voi,5,882,tail,True
+8244,FM Static,5,2490,tail,True
+8254,SOiL,6,2677,tail,True
+8258,Emil Bulls,6,2183,tail,True
+8264,William Fitzsimmons,7,7115,tail,True
+8274,Lydia,7,3448,tail,True
+8312,John Mellencamp,6,3281,tail,True
+8313,John Fogerty,5,1335,tail,True
+8350,Taproot,8,4624,tail,True
+8364,Sean Kingston,9,3597,tail,True
+8371,Maná,8,3864,tail,True
+8372,Ricardo Arjona,9,2705,tail,True
+8390,she,7,7110,tail,True
+8420,Lake of Tears,5,1412,tail,True
+8422,Meat Loaf,6,3031,tail,True
+8439,Metin & Kemal Kahraman,6,2344,tail,True
+8454,Bülent Ortaçgil,6,1813,tail,True
+8459,mewithoutYou,9,7620,tail,True
+8461,Sunny Day Real Estate,6,1460,tail,True
+8464,Every Time I Die,6,3709,tail,True
+8467,American Football,6,2610,tail,True
+8479,Nada Surf,8,2715,tail,True
+8504,Joshua Radin,6,3951,tail,True
+8510,Modeselektor,6,1893,tail,True
+8555,Pat Benatar,7,943,tail,True
+8582,Miss Kittin,5,1361,tail,True
+8583,Neon Neon,5,393,tail,True
+8587,Blackbird Blackbird,6,641,tail,True
+8589,Frankmusik,22,14703,tail,True
+8592,Rachael Yamagata,7,4646,tail,True
+8594,Joni Mitchell,10,2297,tail,True
+8600,Nino Rota,5,2770,tail,True
+8642,Grammatics,5,2829,tail,True
+8649,Kimya Dawson,9,3577,tail,True
+8656,Mansun,10,5666,tail,True
+8659,The Cooper Temple Clause,5,5938,tail,True
+8670,譚盾,5,1407,tail,True
+8672,Ride,7,2774,tail,True
+8674,The Naked and Famous,8,1401,tail,True
+8675,Van She,5,1625,tail,True
+8676,Au Revoir Simone,11,5259,tail,True
+8678,Neon Indian,5,1833,tail,True
+8680,Chapterhouse,5,1266,tail,True
+8705,No Age,7,7979,tail,True
+8706,Twin Shadow,5,974,tail,True
+8707,Ludov,9,7184,tail,True
+8710,Moptop,18,14654,tail,True
+8713,Rock Rocket,7,5264,tail,True
+8716,Glen Hansard & Markéta Irglová,5,2051,tail,True
+8718,Måns Zelmerlöw,6,5427,tail,True
+8728,Oficina G3,9,4141,tail,True
+8732,Fernandinho,7,2114,tail,True
+8794,Nazareth,7,1019,tail,True
+8802,Kitaro,7,5266,tail,True
+8805,Luther Allison,5,814,tail,True
+8830,The Coral,7,2976,tail,True
+8837,Charlie Parker,6,1080,tail,True
+8853,Secret Garden,7,5438,tail,True
+8866,Red House Painters,5,3789,tail,True
+8884,Madina Lake,5,2928,tail,True
+8910,Electric Six,8,2445,tail,True
+8915,How to Destroy Angels,5,938,tail,True
+8945,Minor Threat,6,4635,tail,True
+8962,Javier Navarrete,5,1395,tail,True
+8991,Boyz II Men,8,3295,tail,True
+8995,Andy Taylor,5,3717,tail,True
+9079,Bethany Joy Lenz,7,4134,tail,True
+9144,Switchblade Symphony,5,1429,tail,True
+9160,Mark Ronson,5,2359,tail,True
+9183,El Canto del Loco,6,1676,tail,True
+9187,Hillsong United,8,15843,tail,True
+9230,Gram,5,1317,tail,True
+9234,Lasgo,6,2716,tail,True
+9260,Kylesa,8,1590,tail,True
+9285,Jamie Woon,5,1923,tail,True
+9321,The The,5,923,tail,True
+9334,Tesla,7,1404,tail,True
+9344,Screaming Trees,9,4099,tail,True
+9347,Bad Company,6,1215,tail,True
+9384,Young Money,5,664,tail,True
+9433,James Taylor,5,1541,tail,True
+9457,Lightning Bolt,5,1347,tail,True
+9470,Poe,6,1017,tail,True
+9485,Voxtrot,6,5313,tail,True
+9545,Smog,5,1650,tail,True
+9585,椎名林檎,6,2377,tail,True
+9631,The Divine Comedy,5,1570,tail,True
+9632,Kula Shaker,5,1254,tail,True
+9636,Jesus on Extasy,5,1406,tail,True
+9684,Travie McCoy,7,4606,tail,True
+9716,Buckethead,8,11353,tail,True
+9727,Wild Beasts,6,2187,tail,True
+9766,Gui Boratto,9,2438,tail,True
+9783,The Kilimanjaro Darkjazz Ensemble,9,2308,tail,True
+9818,Mother Love Bone,5,1224,tail,True
+9822,Firehouse,6,969,tail,True
+9823,Teenage Fanclub,7,5099,tail,True
+9825,Big Star,6,1447,tail,True
+9869,Elegant Machinery,6,1149,tail,True
+9907,R. Kelly,6,1417,tail,True
+9926,Ted Nugent,5,440,tail,True
+9955,The Twilight Sad,5,3331,tail,True
+10069,Finger Eleven,9,4420,tail,True
+10105,The Sound,5,2090,tail,True
+10214,Sleater-Kinney,8,3080,tail,True
+10310,Sevendust,5,1237,tail,True
+10318,The Friday Night Boys,7,3287,tail,True
+10327,Air Traffic,6,1515,tail,True
+10358,Henry Mancini,6,725,tail,True
+10394,Curtis Mayfield,6,2196,tail,True
+10412,"Crosby, Stills, Nash & Young",6,720,tail,True
+10418,Novos Baianos,7,3168,tail,True
+10430,Otto Dix,6,2269,tail,True
+10449,Orchid,6,3983,tail,True
+10491,Кирпичи,5,806,tail,True
+10517,Dntel,5,2701,tail,True
+10564,Big D and the Kids Table,5,1957,tail,True
+10608,Mario,8,3136,tail,True
+10612,Das Racist,5,1134,tail,True
+10613,Carissa's Wierd,6,3076,tail,True
+10615,Wavves,5,6513,tail,True
+10640,Lesley Roy,5,4365,tail,True
+10663,Easy Star All-Stars,5,809,tail,True
+10672,Voivod,6,1582,tail,True
+10677,The Wreckers,6,5261,tail,True
+10717,Juan Luis Guerra,6,5005,tail,True
+10738,Lali Puna,5,1592,tail,True
+10784,LoveHateHero,5,1819,tail,True
+10847,The Replacements,5,2479,tail,True
+10859,Orgy,6,2810,tail,True
+10955,Andrew W.K.,5,2672,tail,True
+10967,Chris Crocker,5,1272,tail,True
+10969,Françoise Hardy,11,5083,tail,True
+11042,Circle Jerks,6,2324,tail,True
+11069,Marques Houston,5,467,tail,True
+11084,Moenia,7,4119,tail,True
+11128,Monolake,5,1387,tail,True
+11155,Uh Huh Her,8,2587,tail,True
+11204,Dabrye,5,1845,tail,True
+11206,The Black Dog,5,1268,tail,True
+11229,Richard Hawley,5,4521,tail,True
+11230,Bernard Butler,5,10332,tail,True
+11393,Jonny Craig,5,3252,tail,True
+11460,Vivendo do Ócio,5,1972,tail,True
+11477,Herbie Hancock,6,1796,tail,True
+11550,The Format,6,4627,tail,True
+11589,The Dodos,5,1747,tail,True
+11598,I Am Kloot,6,3449,tail,True
+11604,Envy,5,687,tail,True
+11652,Stan Getz,5,902,tail,True
+11739,The Submarines,5,776,tail,True
+11754,The Cat Empire,7,2908,tail,True
+11796,Falling Up,7,4913,tail,True
+11849,The Beautiful South,6,2450,tail,True
+11885,Johnny Winter,7,535,tail,True
+11900,Low,5,1605,tail,True
+12002,Broadcast,6,4808,tail,True
+12013,Dan Black,5,867,tail,True
+12026,Azure Ray,5,2255,tail,True
+12104,Tópaz,5,2186,tail,True
+12165,The Long Blondes,5,2172,tail,True
+12243,Beenie Man,5,469,tail,True
+12406,Chrisette Michele,5,3099,tail,False
+12555,Ximena Sariñana,5,2510,tail,True
+12599,Harry Nilsson,5,1998,tail,True
+12868,Quantic,5,1576,tail,True
+12918,Band of Skulls,5,1165,tail,True
+13292,Don Omar,7,4172,tail,True
+13303,Tego Calderon,5,1436,tail,True
+13888,Tindersticks,6,2410,tail,True
+14645,SoKo,5,1396,tail,True
+14692,(hed) Planet Earth,6,3815,tail,True
